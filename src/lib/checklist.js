@@ -77,8 +77,8 @@ export async function downloadChecklist(softwareMeta) {
 
     ws.eachRow((row, rowNumber) => {
         row.eachCell({ includeEmpty: true }, (cell) => {
-            // Check if cell is a merged slave
-            const isSlave = cell.isMerged && cell.master && cell.address !== cell.master.address
+            // Safe Check: Operation valid only on Master or Unmerged cells
+            const isMaster = !cell.isMerged || (cell.master && cell.address === cell.master.address)
 
             // Apply Borders & Alignment to everything
             cell.border = borders
@@ -92,7 +92,7 @@ export async function downloadChecklist(softwareMeta) {
                 cell.fill = purpleFill
 
                 // Only modify content/font on Master Cells to prevent errors
-                if (!isSlave) {
+                if (isMaster) {
                     // Force plain text to override any template Rich Text color locking
                     if (cellText.includes('학교용')) {
                         cell.value = cellText
