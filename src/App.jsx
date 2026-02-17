@@ -397,6 +397,7 @@ function App() {
                     {items.map(sw => (
                       <div
                         key={sw.id}
+                        title={sw.name}
                         onClick={() => toggleSelection(sw.id)}
                         className={`
                           cursor-pointer p-4 rounded-xl border transition-all duration-200 flex items-start group relative
