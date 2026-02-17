@@ -24,15 +24,6 @@ export async function downloadChecklist(softwareMeta) {
     const foundNames = new Set()
 
     // 3. Identify data rows to delete (row 7 onwards)
-    // FIRST: Capture style from the first data row (row 7) to apply to new rows later
-    const columnStyles = {}
-    const templateRow = ws.getRow(7)
-    if (templateRow) {
-        templateRow.eachCell({ includeEmpty: true }, (cell, colNumber) => {
-            columnStyles[colNumber] = cell.style
-        })
-    }
-
     // Column C (3) = SW name
     const rowsToDelete = []
     const lastDataRow = ws.rowCount
@@ -61,32 +52,59 @@ export async function downloadChecklist(softwareMeta) {
 
     for (const item of missingItems) {
         const nextRow = ws.rowCount + 1
-        const row = ws.getRow(nextRow)
+        ws.getCell(nextRow, 2).value = '' // 연번 (set below)
+        ws.getCell(nextRow, 3).value = item.name       // 소프트웨어명
+        ws.getCell(nextRow, 4).value = item.provider   // 공급자
+        ws.getCell(nextRow, 5).value = item.category   // 유형
+    }
 
-        // Apply styles from template
-        Object.keys(columnStyles).forEach(colNumber => {
-            const cell = row.getCell(Number(colNumber))
-            cell.style = columnStyles[colNumber]
+    // 6. Re-number 연번 (column B) AND Apply Clean Styling to ALL Rows
+    // We override the neon colors from the template with the clean Purple/Grey theme
+    let seq = 1
+
+    // Define Styles
+    const borderStyle = { style: 'thin', color: { argb: 'FF000000' } }
+    const borders = { top: borderStyle, left: borderStyle, bottom: borderStyle, right: borderStyle }
+    const centerAlign = { vertical: 'middle', horizontal: 'center', wrapText: true }
+
+    const purpleFill = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FF6A0DAD' } } // Row 1
+    const lightPurpleFill = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFD1C4E9' } } // Row 2
+    const greyFill = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFE0E0E0' } } // Row 3-6
+    const whiteFill = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFFFFFFF' } } // Row 7+
+
+    // Iterate all rows to clean up styles
+    ws.eachRow((row, rowNumber) => {
+        row.eachCell({ includeEmpty: true }, (cell) => {
+            // Apply Borders & Alignment to everything
+            cell.border = borders
+            cell.alignment = centerAlign
+
+            // Apply Background Colors based on Row Number
+            if (rowNumber === 1) {
+                cell.fill = purpleFill
+                // Assuming Title is White text?
+                // cell.font = { color: { argb: 'FFFFFFFF' }, bold: true }
+            } else if (rowNumber === 2) {
+                cell.fill = lightPurpleFill
+            } else if (rowNumber >= 3 && rowNumber <= 6) {
+                cell.fill = greyFill
+                cell.font = { bold: true, name: 'Malgun Gothic' }
+            } else if (rowNumber >= 7) {
+                // Data Rows
+                cell.fill = whiteFill
+                cell.font = { name: 'Malgun Gothic', size: 10 }
+            }
         })
 
-        row.getCell(2).value = '' // 연번 (set below)
-        row.getCell(3).value = item.name       // 소프트웨어명
-        row.getCell(4).value = item.provider   // 공급자
-        row.getCell(5).value = item.category   // 유형
-
-        row.commit()
-    }
-
-    // 6. Re-number 연번 (column B) starting from row 7
-    let seq = 1
-    const newLastRow = ws.rowCount
-    for (let rowIdx = 7; rowIdx <= newLastRow; rowIdx++) {
-        const nameCell = ws.getCell(rowIdx, 3)
-        if (nameCell.value && String(nameCell.value).trim()) {
-            ws.getCell(rowIdx, 2).value = seq
-            seq++
+        // Re-number logic for data rows
+        if (rowNumber >= 7) {
+            const nameCell = row.getCell(3)
+            if (nameCell.value && String(nameCell.value).trim()) {
+                row.getCell(2).value = seq
+                seq++
+            }
         }
-    }
+    })
 
     // 7. Save and download
     const buffer = await workbook.xlsx.writeBuffer()
