@@ -73,6 +73,8 @@ export async function downloadChecklist(softwareMeta) {
     const whiteFill = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFFFFFFF' } } // Row 7+
 
     // Iterate all rows to clean up styles
+    ws.getRow(1).height = 45 // Ensure Row 1 is tall enough for the title
+
     ws.eachRow((row, rowNumber) => {
         row.eachCell({ includeEmpty: true }, (cell) => {
             // Apply Borders & Alignment to everything
@@ -82,8 +84,8 @@ export async function downloadChecklist(softwareMeta) {
             // Apply Background Colors based on Row Number
             if (rowNumber === 1) {
                 cell.fill = purpleFill
-                // Title: White, Bold, Large
-                cell.font = { name: 'Malgun Gothic', size: 16, bold: true, color: { argb: 'FFFFFFFF' } }
+                // Title: White, Bold, Larger (Restore size)
+                cell.font = { name: 'Malgun Gothic', size: 24, bold: true, color: { argb: 'FFFFFFFF' } }
             } else if (rowNumber === 2) {
                 cell.fill = lightPurpleFill
                 // Description: Black, but URL should be Blue
