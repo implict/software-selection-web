@@ -14,17 +14,20 @@ export async function submitVote(teacherName, subject, selectedIds) {
     // 기존 투표 확인
     const { data: existing } = await supabase
         .from('votes')
-        .select('id')
+        .select('id, selected_ids')
         .eq('teacher_name', teacherName)
         .maybeSingle()
 
     if (existing) {
-        // 기존 투표 업데이트
+        // 기존 데이터 유지 + 추가 (Merge)
+        const existingIds = existing.selected_ids || []
+        const mergedIds = [...new Set([...existingIds, ...selectedIds])]
+
         const { error } = await supabase
             .from('votes')
             .update({
                 subject,
-                selected_ids: selectedIds,
+                selected_ids: mergedIds,
                 created_at: new Date().toISOString()
             })
             .eq('id', existing.id)
