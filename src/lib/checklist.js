@@ -82,9 +82,16 @@ export async function downloadChecklist(softwareMeta) {
             cell.alignment = centerAlign
 
             // Apply Background Colors based on Row Number
-            if (rowNumber === 1) {
+            const cellText = cell.text || ''
+
+            // Check for Title (usually Row 1, but check text to be sure)
+            if (rowNumber === 1 || cellText.includes('학교용')) {
                 cell.fill = purpleFill
-                // Title: White, Bold, Larger (Restore size)
+                // Force plain text to override any template Rich Text color locking
+                if (cellText.includes('학교용')) {
+                    cell.value = cellText
+                }
+                // Title: White, Bold, Larger
                 cell.font = { name: 'Malgun Gothic', size: 24, bold: true, color: { argb: 'FFFFFFFF' } }
             } else if (rowNumber === 2) {
                 cell.fill = lightPurpleFill
