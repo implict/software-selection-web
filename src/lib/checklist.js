@@ -30,8 +30,12 @@ export async function downloadChecklist(softwareMeta) {
 
     for (let rowIdx = 7; rowIdx <= lastDataRow; rowIdx++) {
         const cell = ws.getCell(rowIdx, 3)
-        const cellValue = cell.value ? String(cell.value).trim() : ''
-        if (swNameSet.has(cellValue)) {
+        const cellValue = cell.text ? cell.text.trim() : (cell.value ? String(cell.value).trim() : '')
+
+        // Fix: Ensure we only keep the FIRST instance of a software from the template
+        // If it's in our list AND we haven't found it yet, keep it.
+        // Otherwise (not in list, OR already found duplicate), delete it.
+        if (swNameSet.has(cellValue) && !foundNames.has(cellValue)) {
             foundNames.add(cellValue)
         } else {
             rowsToDelete.push(rowIdx)
