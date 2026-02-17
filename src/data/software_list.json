@@ -1,0 +1,5228 @@
+[
+  {
+    "id": 1,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS eBook (APP 서비스)"
+  },
+  {
+    "id": 2,
+    "category": "공공(시도포함)",
+    "provider": "한국지능정보사회진흥원",
+    "name": "디지털윤리"
+  },
+  {
+    "id": 3,
+    "category": "공공(시도포함)",
+    "provider": "충남교육청",
+    "name": "누리한글 한글 해득 지원 시스템"
+  },
+  {
+    "id": 4,
+    "category": "공공(시도포함)",
+    "provider": "충남교육청",
+    "name": "온한글 한글해득 지원 시스템"
+  },
+  {
+    "id": 5,
+    "category": "공공(시도포함)",
+    "provider": "충남교육청",
+    "name": "중등 온평가 시스템"
+  },
+  {
+    "id": 6,
+    "category": "공공(시도포함)",
+    "provider": "충남교육청",
+    "name": "초등 온평가 시스템"
+  },
+  {
+    "id": 7,
+    "category": "공공(시도포함)",
+    "provider": "충남교육청",
+    "name": "중등 기초학력 온채움 시스템"
+  },
+  {
+    "id": 8,
+    "category": "공공(시도포함)",
+    "provider": "충남교육청",
+    "name": "초등 기초학력 온채움 시스템"
+  },
+  {
+    "id": 9,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "함께학교 (https://www.togetherschool.go.kr/)"
+  },
+  {
+    "id": 10,
+    "category": "공공(시도포함)",
+    "provider": "울산교육청",
+    "name": "다배움교실"
+  },
+  {
+    "id": 11,
+    "category": "공공(시도포함)",
+    "provider": "울산교육청",
+    "name": "학생참여중심수업"
+  },
+  {
+    "id": 12,
+    "category": "공공(시도포함)",
+    "provider": "울산교육청",
+    "name": "초등연구학교상설전시관"
+  },
+  {
+    "id": 13,
+    "category": "공공(시도포함)",
+    "provider": "울산교육청",
+    "name": "울산아이꿈터"
+  },
+  {
+    "id": 14,
+    "category": "공공(시도포함)",
+    "provider": "울산교육청",
+    "name": "다듣영어+"
+  },
+  {
+    "id": 15,
+    "category": "공공(시도포함)",
+    "provider": "한국과학기술정보연구원",
+    "name": "VlabON"
+  },
+  {
+    "id": 16,
+    "category": "공공(시도포함)",
+    "provider": "부산교육청",
+    "name": "진학 PEN AI"
+  },
+  {
+    "id": 17,
+    "category": "공공(시도포함)",
+    "provider": "한국기후환경네트워크",
+    "name": "기후행동1.5℃"
+  },
+  {
+    "id": 18,
+    "category": "공공(시도포함)",
+    "provider": "국립국악원",
+    "name": "국악놀이터"
+  },
+  {
+    "id": 19,
+    "category": "공공(시도포함)",
+    "provider": "한국교육개발원",
+    "name": "학생선수 e-School 온라인 학습지원 플랫폼"
+  },
+  {
+    "id": 20,
+    "category": "공공(시도포함)",
+    "provider": "충북교육청",
+    "name": "다채움 (채움모니터, 채움책방, 채움수학, 채움영어, 채움코딩, 채움캔버스, 채움타자 등)"
+  },
+  {
+    "id": 21,
+    "category": "공공(시도포함)",
+    "provider": "서울교육청",
+    "name": "서울특별시교육청전자도서관"
+  },
+  {
+    "id": 22,
+    "category": "공공(시도포함)",
+    "provider": "한국과학창의재단",
+    "name": "School AI"
+  },
+  {
+    "id": 23,
+    "category": "공공(시도포함)",
+    "provider": "서울교육청",
+    "name": "서울학생미래역량진단시스템(채움AI)"
+  },
+  {
+    "id": 24,
+    "category": "공공(시도포함)",
+    "provider": "경북교육청",
+    "name": "디지털지식마루"
+  },
+  {
+    "id": 25,
+    "category": "공공(시도포함)",
+    "provider": "서울교육청",
+    "name": "서울진로진학정보센터"
+  },
+  {
+    "id": 26,
+    "category": "공공(시도포함)",
+    "provider": "서울교육청",
+    "name": "쎈(SEN)진학 나침판"
+  },
+  {
+    "id": 27,
+    "category": "공공(시도포함)",
+    "provider": "한국직업능력연구원",
+    "name": "진로정보망 커리어넷"
+  },
+  {
+    "id": 28,
+    "category": "공공(시도포함)",
+    "provider": "부산교육청",
+    "name": "부산에듀원2.0"
+  },
+  {
+    "id": 29,
+    "category": "공공(시도포함)",
+    "provider": "한국교육과정평가원",
+    "name": "국가기초학력지원포털"
+  },
+  {
+    "id": 30,
+    "category": "공공(시도포함)",
+    "provider": "한국교육학술정보원(KERIS)",
+    "name": "똑똑! 수학탐험대"
+  },
+  {
+    "id": 31,
+    "category": "공공(시도포함)",
+    "provider": "한국교육학술정보원(KERIS)",
+    "name": "독서로"
+  },
+  {
+    "id": 32,
+    "category": "공공(시도포함)",
+    "provider": "경기교육청",
+    "name": "경기도교육청 소프트웨어 모음집(하이러닝, 경기온라인학교 등)"
+  },
+  {
+    "id": 33,
+    "category": "공공(시도포함)",
+    "provider": "국가평생교육진흥원",
+    "name": "다문화교육포털"
+  },
+  {
+    "id": 34,
+    "category": "공공(시도포함)",
+    "provider": "대전교육청",
+    "name": "대전 인공지능 맞춤형 교수학습 플랫폼(AIEP)"
+  },
+  {
+    "id": 35,
+    "category": "공공(시도포함)",
+    "provider": "한국과학창의재단",
+    "name": "알지오매스"
+  },
+  {
+    "id": 36,
+    "category": "공공(시도포함)",
+    "provider": "한국과학창의재단",
+    "name": "지능형 과학실 ON"
+  },
+  {
+    "id": 37,
+    "category": "공공(시도포함)",
+    "provider": "전남교육청",
+    "name": "인공지능 맞춤형 교수학습 플랫폼 AIEP (전남_아이모두)"
+  },
+  {
+    "id": 38,
+    "category": "공공(시도포함)",
+    "provider": "서울교육청",
+    "name": "서울 자라나 톡"
+  },
+  {
+    "id": 39,
+    "category": "공공(시도포함)",
+    "provider": "서울교육청",
+    "name": "SEN스쿨(센스쿨, 서울교수학습플랫폼)"
+  },
+  {
+    "id": 40,
+    "category": "공공(시도포함)",
+    "provider": "한국교육학술정보원(KERIS)",
+    "name": "AI·디지털 교육자료 포털"
+  },
+  {
+    "id": 41,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS 장애인 서비스 (https://www.ebs.co.kr/free)"
+  },
+  {
+    "id": 42,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS이솦 웹사이트 (https://www.ebssw.kr/)"
+  },
+  {
+    "id": 43,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBSe 웹사이트 (https://www.ebse.co.kr)"
+  },
+  {
+    "id": 44,
+    "category": "공공(시도포함)",
+    "provider": "에누마코리아",
+    "name": "특수교육 AI・디지털 교육 자료(열린배움터)"
+  },
+  {
+    "id": 45,
+    "category": "공공(시도포함)",
+    "provider": "제주특별자치도교육청",
+    "name": "인공지능 맞춤형 교수학습 플랫폼(AIEP) 바당(BADANG)"
+  },
+  {
+    "id": 46,
+    "category": "공공(시도포함)",
+    "provider": "전북교육청",
+    "name": "전북 인공지능 맞춤형 교수학습 플랫폼(AIEP)"
+  },
+  {
+    "id": 47,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS AI 단추플러스 (https://ai-plus.ebs.co.kr)"
+  },
+  {
+    "id": 48,
+    "category": "공공(시도포함)",
+    "provider": "한국교육학술정보원(KERIS)",
+    "name": "사이버폭력 예방교육 종합서비스 도란도란(사이버스 포함)"
+  },
+  {
+    "id": 49,
+    "category": "공공(시도포함)",
+    "provider": "인천교육청",
+    "name": "다락방"
+  },
+  {
+    "id": 50,
+    "category": "공공(시도포함)",
+    "provider": "한국과학창의재단",
+    "name": "애스크매스(AskMath)"
+  },
+  {
+    "id": 51,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBSMath 웹사이트 (https://www.ebsmath.co.kr)"
+  },
+  {
+    "id": 52,
+    "category": "공공(시도포함)",
+    "provider": "한국교육과정평가원",
+    "name": "학생평가지원포털"
+  },
+  {
+    "id": 53,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS 중학ㆍ중학 프리미엄 (APP 서비스)"
+  },
+  {
+    "id": 54,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS 중학 프리미엄 웹사이트 (https://mid.ebs.co.kr)"
+  },
+  {
+    "id": 55,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS 초등 (APP 서비스)"
+  },
+  {
+    "id": 56,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS 초등 웹사이트 (https://primary.ebs.co.kr)"
+  },
+  {
+    "id": 57,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS 고교강의 (APP 서비스)"
+  },
+  {
+    "id": 58,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS 고교강의 웹사이트 (https://www.ebsi.co.kr)"
+  },
+  {
+    "id": 59,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS 북스토리 웹사이트 (https://book.ebs.co.kr)"
+  },
+  {
+    "id": 60,
+    "category": "공공(시도포함)",
+    "provider": "인천교육청",
+    "name": "인천무크"
+  },
+  {
+    "id": 61,
+    "category": "공공(시도포함)",
+    "provider": "국가데이터인재개발원",
+    "name": "통그라미(초중등 학생용 통계패키지)"
+  },
+  {
+    "id": 62,
+    "category": "공공(시도포함)",
+    "provider": "인천교육청",
+    "name": "인천사이버진로교육원"
+  },
+  {
+    "id": 63,
+    "category": "공공(시도포함)",
+    "provider": "한국교육학술정보원(KERIS)",
+    "name": "에듀넷"
+  },
+  {
+    "id": 64,
+    "category": "공공(시도포함)",
+    "provider": "한국교육과정평가원",
+    "name": "책열매(책으로 열리는 매일)"
+  },
+  {
+    "id": 65,
+    "category": "공공(시도포함)",
+    "provider": "강원교육청",
+    "name": "인공지능 맞춤형 교수학습 플랫폼(11개 시도교육청 공동 구축)"
+  },
+  {
+    "id": 66,
+    "category": "공공(시도포함)",
+    "provider": "한국교육과정평가원",
+    "name": "한글 또박또박"
+  },
+  {
+    "id": 67,
+    "category": "공공(시도포함)",
+    "provider": "울산교육청",
+    "name": "우리아이(AI) 교수학습 플랫폼"
+  },
+  {
+    "id": 68,
+    "category": "공공(시도포함)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "AI 펭톡"
+  },
+  {
+    "id": 69,
+    "category": "공공(시도포함)",
+    "provider": "경북교육청",
+    "name": "경북인공지능맞춤형교수학습플랫폼(경북AI배움터)_AIEP"
+  },
+  {
+    "id": 70,
+    "category": "공공(시도포함)",
+    "provider": "세종교육청",
+    "name": "세종 인공지능 맞춤형 교수학습 플랫폼(세종AI)"
+  },
+  {
+    "id": 71,
+    "category": "공공(시도포함)",
+    "provider": "인천교육청",
+    "name": "인공지능 맞춤형 교수학습 플랫폼(AIEP)"
+  },
+  {
+    "id": 72,
+    "category": "공공(시도포함)",
+    "provider": "전남교육청",
+    "name": "전남메타스쿨"
+  },
+  {
+    "id": 73,
+    "category": "공공(시도포함)",
+    "provider": "서울교육청",
+    "name": "서울 수학 ON 스페이스"
+  },
+  {
+    "id": 74,
+    "category": "공공(시도포함)",
+    "provider": "대구교육청",
+    "name": "에듀나비"
+  },
+  {
+    "id": 75,
+    "category": "공공(시도포함)",
+    "provider": "경남교육청",
+    "name": "아이톡톡"
+  },
+  {
+    "id": 76,
+    "category": "공공(시도포함)",
+    "provider": "광주교육청",
+    "name": "광주아이온(AI-ON)"
+  },
+  {
+    "id": 77,
+    "category": "공공(시도포함)",
+    "provider": "강원교육청",
+    "name": "강원아이로"
+  },
+  {
+    "id": 78,
+    "category": "공공(시도포함)",
+    "provider": "한국교육학술정보원(KERIS)",
+    "name": "모두의 한국어"
+  },
+  {
+    "id": 79,
+    "category": "공공(시도포함)",
+    "provider": "한국교육학술정보원(KERIS)",
+    "name": "위두랑"
+  },
+  {
+    "id": 80,
+    "category": "공공(시도포함)",
+    "provider": "한국교육학술정보원(KERIS)",
+    "name": "디지털교과서"
+  },
+  {
+    "id": 81,
+    "category": "공공(시도포함)",
+    "provider": "한국교육학술정보원(KERIS)",
+    "name": "나이스플러스"
+  },
+  {
+    "id": 82,
+    "category": "공공(시도포함)",
+    "provider": "인천교육청",
+    "name": "인천직업계고.kr"
+  },
+  {
+    "id": 83,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)교문사",
+    "name": "중등 정보 AI 디지털 교육자료"
+  },
+  {
+    "id": 84,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)교문사",
+    "name": "고등 정보 AI 디지털 교육자료"
+  },
+  {
+    "id": 85,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)교학사",
+    "name": "AI 디지털 교육자료 중학 수학2"
+  },
+  {
+    "id": 86,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)교학사",
+    "name": "AI 디지털 교육자료 중학 수학1"
+  },
+  {
+    "id": 87,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 정보)"
+  },
+  {
+    "id": 88,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 영어 3)"
+  },
+  {
+    "id": 89,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 영어 4)"
+  },
+  {
+    "id": 90,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 영어 5)"
+  },
+  {
+    "id": 91,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 영어 6)"
+  },
+  {
+    "id": 92,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 수학 6-2)"
+  },
+  {
+    "id": 93,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 수학 6-1)"
+  },
+  {
+    "id": 94,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 수학 5-2)"
+  },
+  {
+    "id": 95,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 수학 5-1)"
+  },
+  {
+    "id": 96,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 수학 4-2)"
+  },
+  {
+    "id": 97,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 수학 4-1)"
+  },
+  {
+    "id": 98,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 수학 3-2)"
+  },
+  {
+    "id": 99,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (초등 수학 3-1)"
+  },
+  {
+    "id": 100,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (중등 정보)"
+  },
+  {
+    "id": 101,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (중등 영어 2)"
+  },
+  {
+    "id": 102,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (중등 수학 2)"
+  },
+  {
+    "id": 103,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (중등 수학 1)"
+  },
+  {
+    "id": 104,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (고등 정보)"
+  },
+  {
+    "id": 105,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (고등 공통수학2)"
+  },
+  {
+    "id": 106,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)미래엔",
+    "name": "미래엔 AI·디지털 교육자료 (고등 공통수학1)"
+  },
+  {
+    "id": 107,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 영어3(최희경)"
+  },
+  {
+    "id": 108,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 영어3(김혜리)"
+  },
+  {
+    "id": 109,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 영어4(김혜리)"
+  },
+  {
+    "id": 110,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 영어4(최희경)"
+  },
+  {
+    "id": 111,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 영어5(김혜리)"
+  },
+  {
+    "id": 112,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 영어5(최희경)"
+  },
+  {
+    "id": 113,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 영어6(김혜리)"
+  },
+  {
+    "id": 114,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 영어6(최희경)"
+  },
+  {
+    "id": 115,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 수학 6-2"
+  },
+  {
+    "id": 116,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 중학 정보"
+  },
+  {
+    "id": 117,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 수학 6-1"
+  },
+  {
+    "id": 118,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 중학 수학1"
+  },
+  {
+    "id": 119,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 중학 수학2"
+  },
+  {
+    "id": 120,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 중학 영어1(김은형)"
+  },
+  {
+    "id": 121,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 중학 영어1(박준언)"
+  },
+  {
+    "id": 122,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 수학 5-2"
+  },
+  {
+    "id": 123,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 중학 영어2(김은형)"
+  },
+  {
+    "id": 124,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 중학 영어2(박준언)"
+  },
+  {
+    "id": 125,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 수학 5-1"
+  },
+  {
+    "id": 126,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 고등 정보"
+  },
+  {
+    "id": 127,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 고등 공통수학1"
+  },
+  {
+    "id": 128,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 수학 4-2"
+  },
+  {
+    "id": 129,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 수학 4-1"
+  },
+  {
+    "id": 130,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 고등 공통수학2"
+  },
+  {
+    "id": 131,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 수학 3-2"
+  },
+  {
+    "id": 132,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 고등 공통영어1(김은형)"
+  },
+  {
+    "id": 133,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 고등 공통영어1(박준언)"
+  },
+  {
+    "id": 134,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 초등 수학 3-1"
+  },
+  {
+    "id": 135,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 고등 공통영어2(김은형)"
+  },
+  {
+    "id": 136,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] AI 디지털 교육자료 고등 공통영어2(박준언)"
+  },
+  {
+    "id": 137,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 공통영어2"
+  },
+  {
+    "id": 138,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 영어 4"
+  },
+  {
+    "id": 139,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 수학 6-1"
+  },
+  {
+    "id": 140,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 수학 5-2"
+  },
+  {
+    "id": 141,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 수학 4-2"
+  },
+  {
+    "id": 142,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 수학 4-1"
+  },
+  {
+    "id": 143,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 공통수학2"
+  },
+  {
+    "id": 144,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 공통수학1"
+  },
+  {
+    "id": 145,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 공통영어1"
+  },
+  {
+    "id": 146,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 중학 영어 2 이병민"
+  },
+  {
+    "id": 147,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 영어 6"
+  },
+  {
+    "id": 148,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 중학 영어 2 윤정미"
+  },
+  {
+    "id": 149,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 영어 5"
+  },
+  {
+    "id": 150,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 중학 영어 1 이병민"
+  },
+  {
+    "id": 151,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 영어 3"
+  },
+  {
+    "id": 152,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 중학 영어 1 윤정미"
+  },
+  {
+    "id": 153,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 수학 6-2"
+  },
+  {
+    "id": 154,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 중학 수학 2"
+  },
+  {
+    "id": 155,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 수학 5-1"
+  },
+  {
+    "id": 156,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 수학 3-2"
+  },
+  {
+    "id": 157,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 중학 수학 1"
+  },
+  {
+    "id": 158,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 초등 수학 3-1"
+  },
+  {
+    "id": 159,
+    "category": "AI·디지털 교육자료",
+    "provider": "NE능률",
+    "name": "엔이능률 AIDT 교육자료 (공통영어2(오))"
+  },
+  {
+    "id": 160,
+    "category": "AI·디지털 교육자료",
+    "provider": "NE능률",
+    "name": "엔이능률 AIDT 교육자료 (공통영어1(오))"
+  },
+  {
+    "id": 161,
+    "category": "AI·디지털 교육자료",
+    "provider": "NE능률",
+    "name": "엔이능률 AIDT 교육자료 (공통영어2(민))"
+  },
+  {
+    "id": 162,
+    "category": "AI·디지털 교육자료",
+    "provider": "NE능률",
+    "name": "엔이능률 AIDT 교육자료 (공통영어1(민))"
+  },
+  {
+    "id": 163,
+    "category": "AI·디지털 교육자료",
+    "provider": "NE능률",
+    "name": "엔이능률 AIDT 교육자료 (영어2)"
+  },
+  {
+    "id": 164,
+    "category": "AI·디지털 교육자료",
+    "provider": "NE능률",
+    "name": "엔이능률 AIDT 교육자료 (영어1)"
+  },
+  {
+    "id": 165,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)금성출판사",
+    "name": "(주)금성출판사 고등학교 정보 AI 디지털 교육자료"
+  },
+  {
+    "id": 166,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)금성출판사",
+    "name": "(주)금성출판사 중학교 정보 AI 디지털 교육자료"
+  },
+  {
+    "id": 167,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 잇플 ITPLE",
+    "name": "초등학교 정보여행"
+  },
+  {
+    "id": 168,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 초등 영어 6"
+  },
+  {
+    "id": 169,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 초등 영어 5"
+  },
+  {
+    "id": 170,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 영어 4"
+  },
+  {
+    "id": 171,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 영어 3"
+  },
+  {
+    "id": 172,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 고등 정보"
+  },
+  {
+    "id": 173,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 고등 공통영어 2"
+  },
+  {
+    "id": 174,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 고등 공통영어 1"
+  },
+  {
+    "id": 175,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 고등 공통수학 2"
+  },
+  {
+    "id": 176,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 고등 공통수학 1"
+  },
+  {
+    "id": 177,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 중학 정보"
+  },
+  {
+    "id": 178,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 중학 영어 2"
+  },
+  {
+    "id": 179,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 중학 영어 1"
+  },
+  {
+    "id": 180,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 중학 수학 2"
+  },
+  {
+    "id": 181,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 중학 수학 1"
+  },
+  {
+    "id": 182,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 초등 수학 6-2"
+  },
+  {
+    "id": 183,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 초등 수학 6-1"
+  },
+  {
+    "id": 184,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 초등 수학 5-2"
+  },
+  {
+    "id": 185,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 초등 수학 5-1"
+  },
+  {
+    "id": 186,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 초등 수학 4-2"
+  },
+  {
+    "id": 187,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 초등 수학 4-1"
+  },
+  {
+    "id": 188,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 초등 수학 3-2"
+  },
+  {
+    "id": 189,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)비상교육",
+    "name": "비상교육 AI 디지털 교육자료 초등 수학 3-1"
+  },
+  {
+    "id": 190,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 영어 6"
+  },
+  {
+    "id": 191,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 영어 5"
+  },
+  {
+    "id": 192,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 수학 6-2"
+  },
+  {
+    "id": 193,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 수학 6-1"
+  },
+  {
+    "id": 194,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 수학 5-2"
+  },
+  {
+    "id": 195,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 수학 5-1"
+  },
+  {
+    "id": 196,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 수학 4-2"
+  },
+  {
+    "id": 197,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 수학 4-1"
+  },
+  {
+    "id": 198,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 수학 3-2"
+  },
+  {
+    "id": 199,
+    "category": "AI·디지털 교육자료",
+    "provider": "아이스크림미디어",
+    "name": "초등 수학 3-1"
+  },
+  {
+    "id": 200,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)디딤돌교육",
+    "name": "디딤돌교육 AI 디지털 교육자료(초등학교 수학 6-2)"
+  },
+  {
+    "id": 201,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)디딤돌교육",
+    "name": "디딤돌교육 AI 디지털 교육자료(초등학교 수학 6-1)"
+  },
+  {
+    "id": 202,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)디딤돌교육",
+    "name": "디딤돌교육 AI 디지털 교육자료(초등학교 수학 5-2)"
+  },
+  {
+    "id": 203,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)디딤돌교육",
+    "name": "디딤돌교육 AI 디지털 교육자료(초등학교 수학 5-1)"
+  },
+  {
+    "id": 204,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)디딤돌교육",
+    "name": "디딤돌교육 AI 디지털 교육자료(초등학교 수학 4-2)"
+  },
+  {
+    "id": 205,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)디딤돌교육",
+    "name": "디딤돌교육 AI 디지털 교육자료(초등학교 수학 4-1)"
+  },
+  {
+    "id": 206,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)디딤돌교육",
+    "name": "디딤돌교육 AI 디지털 교육자료(초등학교 수학 3-2)"
+  },
+  {
+    "id": 207,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)디딤돌교육",
+    "name": "디딤돌교육 AI 디지털 교육자료(초등학교 수학 3-1)"
+  },
+  {
+    "id": 208,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "고등학교 공통영어2 AI 디지털 교육자료"
+  },
+  {
+    "id": 209,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "고등학교 공통영어1 AI 디지털 교육자료"
+  },
+  {
+    "id": 210,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "초등학교 6학년 2학기 수학 AI 디지털 교육자료"
+  },
+  {
+    "id": 211,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "초등학교 6학년 1학기 수학 AI 디지털 교육자료"
+  },
+  {
+    "id": 212,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "초등학교 5학년 2학기 수학 AI 디지털 교육자료"
+  },
+  {
+    "id": 213,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "초등학교 5학년 1학기 수학 AI 디지털 교육자료"
+  },
+  {
+    "id": 214,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "초등학교 4학년 2학기 수학 AI 디지털 교육자료"
+  },
+  {
+    "id": 215,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "초등학교 4학년 1학기 수학 AI 디지털 교육자료"
+  },
+  {
+    "id": 216,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "초등학교 3학년 2학기 수학 AI 디지털 교육자료"
+  },
+  {
+    "id": 217,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "초등학교 3학년 1학기 수학 AI 디지털 교육자료"
+  },
+  {
+    "id": 218,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "중학교 수학 2 AI 디지털 교육자료"
+  },
+  {
+    "id": 219,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "중학교 수학 1 AI 디지털 교육자료"
+  },
+  {
+    "id": 220,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "중학교 영어 2 AI 디지털 교육자료"
+  },
+  {
+    "id": 221,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "중학교 영어 1 AI 디지털 교육자료"
+  },
+  {
+    "id": 222,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "고등학교 공통수학2 AI 디지털 교육자료"
+  },
+  {
+    "id": 223,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)지학사",
+    "name": "고등학교 공통수학1 AI 디지털 교육자료"
+  },
+  {
+    "id": 224,
+    "category": "AI·디지털 교육자료",
+    "provider": "동아출판(주)",
+    "name": "AI 디지털 교육자료 중학 정보"
+  },
+  {
+    "id": 225,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)엘리스그룹",
+    "name": "엘리스 AI·디지털 교육자료 (초등학교 정보)"
+  },
+  {
+    "id": 226,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "고등 정보 김현철 AI 디지털 교육자료"
+  },
+  {
+    "id": 227,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "고등 공통영어2 조수경 AI 디지털 교육자료"
+  },
+  {
+    "id": 228,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "고등 공통영어1 조수경 AI 디지털 교육자료"
+  },
+  {
+    "id": 229,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "고등 공통영어2 강상구 AI 디지털 교육자료"
+  },
+  {
+    "id": 230,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "고등 공통영어1 강상구 AI 디지털 교육자료"
+  },
+  {
+    "id": 231,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "고등 공통수학2 홍진곤 AI 디지털 교육자료"
+  },
+  {
+    "id": 232,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "고등 공통수학1 홍진곤 AI 디지털 교육자료"
+  },
+  {
+    "id": 233,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "고등 공통수학2 전인태 AI 디지털 교육자료"
+  },
+  {
+    "id": 234,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "고등 공통수학1 전인태 AI 디지털 교육자료"
+  },
+  {
+    "id": 235,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "중학 정보 김현철 AI 디지털 교육자료"
+  },
+  {
+    "id": 236,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "중학 영어 2 소영순 AI 디지털 교육자료"
+  },
+  {
+    "id": 237,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "중학 영어 1 소영순 AI 디지털 교육자료"
+  },
+  {
+    "id": 238,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "중학 영어 2 이상기 AI 디지털 교육자료"
+  },
+  {
+    "id": 239,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "중학 영어 1 이상기 AI 디지털 교육자료"
+  },
+  {
+    "id": 240,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "중학 수학 2 김동재 AI 디지털 교육자료"
+  },
+  {
+    "id": 241,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "중학 수학 1 김동재 AI 디지털 교육자료"
+  },
+  {
+    "id": 242,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "중학 수학 2 김화경 AI 디지털 교육자료"
+  },
+  {
+    "id": 243,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "중학 수학 1 김화경 AI 디지털 교육자료"
+  },
+  {
+    "id": 244,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 정보 3~4학년군 박선주 AI 디지털 교육자료"
+  },
+  {
+    "id": 245,
+    "category": "AI·디지털 교육자료",
+    "provider": "천재교육",
+    "name": "초등 영어 6 이동환 AI 디지털 교육자료"
+  },
+  {
+    "id": 246,
+    "category": "AI·디지털 교육자료",
+    "provider": "천재교육",
+    "name": "초등 영어 5 이동환 AI 디지털 교육자료"
+  },
+  {
+    "id": 247,
+    "category": "AI·디지털 교육자료",
+    "provider": "천재교육",
+    "name": "초등 영어 4 이동환 AI 디지털 교육자료"
+  },
+  {
+    "id": 248,
+    "category": "AI·디지털 교육자료",
+    "provider": "천재교육",
+    "name": "초등 영어 3 이동환 AI 디지털 교육자료"
+  },
+  {
+    "id": 249,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 영어 6 김태은 AI 디지털 교육자료"
+  },
+  {
+    "id": 250,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 영어 5 김태은 AI 디지털 교육자료"
+  },
+  {
+    "id": 251,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 영어 4 김태은 AI 디지털 교육자료"
+  },
+  {
+    "id": 252,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 영어 3 김태은 AI 디지털 교육자료"
+  },
+  {
+    "id": 253,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 영어 6 함순애 AI 디지털 교육자료"
+  },
+  {
+    "id": 254,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 영어 5 함순애 AI 디지털 교육자료"
+  },
+  {
+    "id": 255,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 영어 4 함순애 AI 디지털 교육자료"
+  },
+  {
+    "id": 256,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 영어 3 함순애 AI 디지털 교육자료"
+  },
+  {
+    "id": 257,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 6-2 한대희 AI 디지털 교육자료"
+  },
+  {
+    "id": 258,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 6-1 한대희 AI 디지털 교육자료"
+  },
+  {
+    "id": 259,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 5-2 한대희 AI 디지털 교육자료"
+  },
+  {
+    "id": 260,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 5-1 한대희 AI 디지털 교육자료"
+  },
+  {
+    "id": 261,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 4-2 한대희 AI 디지털 교육자료"
+  },
+  {
+    "id": 262,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 4-1 한대희 AI 디지털 교육자료"
+  },
+  {
+    "id": 263,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 3-2 한대희 AI 디지털 교육자료"
+  },
+  {
+    "id": 264,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 3-1 한대희 AI 디지털 교육자료"
+  },
+  {
+    "id": 265,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 6-2 박만구 AI 디지털 교육자료"
+  },
+  {
+    "id": 266,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 6-1 박만구 AI 디지털 교육자료"
+  },
+  {
+    "id": 267,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 5-2 박만구 AI 디지털 교육자료"
+  },
+  {
+    "id": 268,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 5-1 박만구 AI 디지털 교육자료"
+  },
+  {
+    "id": 269,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 4-2 박만구 AI 디지털 교육자료"
+  },
+  {
+    "id": 270,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 4-1 박만구 AI 디지털 교육자료"
+  },
+  {
+    "id": 271,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 3-2 박만구 AI 디지털 교육자료"
+  },
+  {
+    "id": 272,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)천재교과서",
+    "name": "초등 수학 3-1 박만구 AI 디지털 교육자료"
+  },
+  {
+    "id": 273,
+    "category": "AI·디지털 교육자료",
+    "provider": "NE능률",
+    "name": "엔이능률 AIDT 교육자료"
+  },
+  {
+    "id": 274,
+    "category": "AI·디지털 교육자료",
+    "provider": "(주)도서출판 길벗",
+    "name": "도서출판 길벗 AI 디지털 교육자료 (중학교 정보)"
+  },
+  {
+    "id": 275,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 씨마스",
+    "name": "씨마스 고등 정보 AI 디지털 교육자료"
+  },
+  {
+    "id": 276,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 씨마스",
+    "name": "씨마스 중학 정보 AI 디지털 교육자료"
+  },
+  {
+    "id": 277,
+    "category": "AI·디지털 교육자료",
+    "provider": "주식회사 씨마스",
+    "name": "씨마스 초등 신나는 정보 여행 AI 디지털 교육자료"
+  },
+  {
+    "id": 278,
+    "category": "민간(국산)",
+    "provider": "메이저맵 주식회사",
+    "name": "진로진학 솔루션/웨이메이커"
+  },
+  {
+    "id": 279,
+    "category": "민간(국산)",
+    "provider": "메이저맵 주식회사",
+    "name": "세특업무 솔루션/세특라이트"
+  },
+  {
+    "id": 280,
+    "category": "민간(국산)",
+    "provider": "한국공인회계사회",
+    "name": "재무빅데이터분석사(FDA) 자격시험"
+  },
+  {
+    "id": 281,
+    "category": "민간(국산)",
+    "provider": "한국공인회계사회",
+    "name": "Alphalyzer(알파라이저)"
+  },
+  {
+    "id": 282,
+    "category": "민간(국산)",
+    "provider": "(주)이엠씨앤씨",
+    "name": "이엠클래스"
+  },
+  {
+    "id": 283,
+    "category": "민간(국산)",
+    "provider": "(주)메이크잇나우",
+    "name": "이지블록스"
+  },
+  {
+    "id": 284,
+    "category": "민간(국산)",
+    "provider": "생명의전화",
+    "name": "라이키 프로젝트(마음보호훈련, 마음보호대탐험)"
+  },
+  {
+    "id": 285,
+    "category": "민간(국산)",
+    "provider": "따능",
+    "name": "따능AI"
+  },
+  {
+    "id": 286,
+    "category": "민간(국산)",
+    "provider": "한국공인회계사회",
+    "name": "한국공인회계사회 AT자격시험"
+  },
+  {
+    "id": 287,
+    "category": "민간(국산)",
+    "provider": "더 제로",
+    "name": "스마트 잔반관리 시스템"
+  },
+  {
+    "id": 288,
+    "category": "민간(국산)",
+    "provider": "아이캔노트",
+    "name": "아이캔노트"
+  },
+  {
+    "id": 289,
+    "category": "민간(국산)",
+    "provider": "아이캔노트",
+    "name": "아이캔스크린"
+  },
+  {
+    "id": 290,
+    "category": "민간(국산)",
+    "provider": "주식회사 구름",
+    "name": "arkain"
+  },
+  {
+    "id": 291,
+    "category": "민간(국산)",
+    "provider": "주식회사 구름",
+    "name": "구름EDU"
+  },
+  {
+    "id": 292,
+    "category": "민간(국산)",
+    "provider": "주식회사 구름",
+    "name": "devth"
+  },
+  {
+    "id": 293,
+    "category": "민간(국산)",
+    "provider": "주식회사 곰앤컴퍼니",
+    "name": "곰믹스 비즈니스"
+  },
+  {
+    "id": 294,
+    "category": "민간(국산)",
+    "provider": "주식회사 곰앤컴퍼니",
+    "name": "곰캠 비즈니스"
+  },
+  {
+    "id": 295,
+    "category": "민간(국산)",
+    "provider": "주식회사 곰앤컴퍼니",
+    "name": "곰픽 비즈니스"
+  },
+  {
+    "id": 296,
+    "category": "민간(국산)",
+    "provider": "주식회사 곰앤컴퍼니",
+    "name": "곰플레이어+ 비즈니스"
+  },
+  {
+    "id": 297,
+    "category": "민간(국산)",
+    "provider": "주식회사 가르침에듀",
+    "name": "가르침 AI 동화"
+  },
+  {
+    "id": 298,
+    "category": "민간(국산)",
+    "provider": "주식회사 가르침에듀",
+    "name": "다국어 프로그램"
+  },
+  {
+    "id": 299,
+    "category": "민간(국산)",
+    "provider": "주식회사 가르침에듀",
+    "name": "AI 과제탐구 프로그램"
+  },
+  {
+    "id": 300,
+    "category": "민간(국산)",
+    "provider": "주식회사 가르침에듀",
+    "name": "에이탐스 AI기반 탐구·진로 플랫폼"
+  },
+  {
+    "id": 301,
+    "category": "민간(국산)",
+    "provider": "주식회사 가르침에듀",
+    "name": "인벤처 AI"
+  },
+  {
+    "id": 302,
+    "category": "민간(국산)",
+    "provider": "(주) 갓피플",
+    "name": "갓피플성경"
+  },
+  {
+    "id": 303,
+    "category": "민간(국산)",
+    "provider": "(주) 시사북스",
+    "name": "디지털 교수학습자료(일본어/중국어 등)"
+  },
+  {
+    "id": 304,
+    "category": "민간(국산)",
+    "provider": "네이버커넥트",
+    "name": "엔트리"
+  },
+  {
+    "id": 305,
+    "category": "민간(국산)",
+    "provider": "(주)웰티즌",
+    "name": "키즈사랑 / 어린이통학버스 승하차알림서비스"
+  },
+  {
+    "id": 306,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "뚜루뚜루 AI"
+  },
+  {
+    "id": 307,
+    "category": "민간(국산)",
+    "provider": "(주)리아모어소프트",
+    "name": "망고툰"
+  },
+  {
+    "id": 308,
+    "category": "민간(국산)",
+    "provider": "(주)리아모어소프트",
+    "name": "망고보드"
+  },
+  {
+    "id": 309,
+    "category": "민간(국산)",
+    "provider": "(주)해냄에듀",
+    "name": "해냄에듀"
+  },
+  {
+    "id": 310,
+    "category": "민간(국산)",
+    "provider": "주식회사 리딩게이트",
+    "name": "리딩게이트"
+  },
+  {
+    "id": 311,
+    "category": "민간(국산)",
+    "provider": "(주)팀플백",
+    "name": "자작자작"
+  },
+  {
+    "id": 312,
+    "category": "민간(국산)",
+    "provider": "(주) 신도리코",
+    "name": "3DWOX Desktop"
+  },
+  {
+    "id": 313,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "아이스크림S"
+  },
+  {
+    "id": 314,
+    "category": "민간(국산)",
+    "provider": "(주)미래엔",
+    "name": "어울림"
+  },
+  {
+    "id": 315,
+    "category": "민간(국산)",
+    "provider": "(주)미래엔",
+    "name": "웰리미 한글 진단 검사"
+  },
+  {
+    "id": 316,
+    "category": "민간(국산)",
+    "provider": "(주)교문사",
+    "name": "열린교문 사이트 내 교수학습 자료"
+  },
+  {
+    "id": 317,
+    "category": "민간(국산)",
+    "provider": "자바실험실",
+    "name": "자바실험실"
+  },
+  {
+    "id": 318,
+    "category": "민간(국산)",
+    "provider": "자바실험실",
+    "name": "쪽지 - 교실 내 공유 플랫폼"
+  },
+  {
+    "id": 319,
+    "category": "민간(국산)",
+    "provider": "(주)한글과컴퓨터",
+    "name": "한글과컴퓨터 계정서비스(한글과컴퓨터 전체 서비스 관련)"
+  },
+  {
+    "id": 320,
+    "category": "민간(국산)",
+    "provider": "프로고",
+    "name": "위로그"
+  },
+  {
+    "id": 321,
+    "category": "민간(국산)",
+    "provider": "주식회사 코드리치",
+    "name": "위즈덤박스"
+  },
+  {
+    "id": 322,
+    "category": "민간(국산)",
+    "provider": "주식회사 코드리치",
+    "name": "티코치"
+  },
+  {
+    "id": 323,
+    "category": "민간(국산)",
+    "provider": "주식회사 코드리치",
+    "name": "SPOMARU"
+  },
+  {
+    "id": 324,
+    "category": "민간(국산)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS 구독서비스 (https://www.ebs.co.kr/package)"
+  },
+  {
+    "id": 325,
+    "category": "민간(국산)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS 반디 (APP 서비스)"
+  },
+  {
+    "id": 326,
+    "category": "민간(국산)",
+    "provider": "(주)포디랜드",
+    "name": "포디메카트로닉스"
+  },
+  {
+    "id": 327,
+    "category": "민간(국산)",
+    "provider": "한국교육방송공사(EBS)",
+    "name": "EBS Play (APP 서비스)"
+  },
+  {
+    "id": 328,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "비바클래스"
+  },
+  {
+    "id": 329,
+    "category": "민간(국산)",
+    "provider": "뉴이스트아트",
+    "name": "믐 (온라인 전시- 올인원 툴)"
+  },
+  {
+    "id": 330,
+    "category": "민간(국산)",
+    "provider": "(주)에어사운드",
+    "name": "티키타미트"
+  },
+  {
+    "id": 331,
+    "category": "민간(국산)",
+    "provider": "(주)에어사운드",
+    "name": "티키타모바일"
+  },
+  {
+    "id": 332,
+    "category": "민간(국산)",
+    "provider": "(주)에어사운드",
+    "name": "티키타톡"
+  },
+  {
+    "id": 333,
+    "category": "민간(국산)",
+    "provider": "(주)에어사운드",
+    "name": "티키타캡션"
+  },
+  {
+    "id": 334,
+    "category": "민간(국산)",
+    "provider": "주식회사 투아트",
+    "name": "설리번 플러스"
+  },
+  {
+    "id": 335,
+    "category": "민간(국산)",
+    "provider": "(주)매스프레소",
+    "name": "콴다"
+  },
+  {
+    "id": 336,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "비바샘, 매쓰캔버스, 샘보드+, 샘퀴즈, 스마트 수업도구, 학습심리정서검사"
+  },
+  {
+    "id": 337,
+    "category": "민간(국산)",
+    "provider": "주식회사 에코플레이",
+    "name": "에코빌리지"
+  },
+  {
+    "id": 338,
+    "category": "민간(국산)",
+    "provider": "주식회사 에코플레이",
+    "name": "에코조이"
+  },
+  {
+    "id": 339,
+    "category": "민간(국산)",
+    "provider": "(주)큐빅테크",
+    "name": "GV-CNC"
+  },
+  {
+    "id": 340,
+    "category": "민간(국산)",
+    "provider": "아이캔노트",
+    "name": "아이캔줌잇"
+  },
+  {
+    "id": 341,
+    "category": "민간(국산)",
+    "provider": "(주)큐빅테크",
+    "name": "V-AMT"
+  },
+  {
+    "id": 342,
+    "category": "민간(국산)",
+    "provider": "(주)큐빅테크",
+    "name": "V-ECOD"
+  },
+  {
+    "id": 343,
+    "category": "민간(국산)",
+    "provider": "(주)큐빅테크",
+    "name": "V-MECA"
+  },
+  {
+    "id": 344,
+    "category": "민간(국산)",
+    "provider": "(주)인싸이트",
+    "name": "스쿨프렌즈"
+  },
+  {
+    "id": 345,
+    "category": "민간(국산)",
+    "provider": "보은전자방송통신(주)",
+    "name": "SMART EDU"
+  },
+  {
+    "id": 346,
+    "category": "민간(국산)",
+    "provider": "주식회사 아이케어솔루션(iCareSolution)",
+    "name": "DST(식생활 스크리닝 검사)"
+  },
+  {
+    "id": 347,
+    "category": "민간(국산)",
+    "provider": "주식회사 이오북스",
+    "name": "디지털 교수학습자료"
+  },
+  {
+    "id": 348,
+    "category": "민간(국산)",
+    "provider": "(주)키즈노트",
+    "name": "키즈노트"
+  },
+  {
+    "id": 349,
+    "category": "민간(국산)",
+    "provider": "토파스여행정보(주)",
+    "name": "토파스 셀커넥트 교육용 시스템"
+  },
+  {
+    "id": 350,
+    "category": "민간(국산)",
+    "provider": "유메이커스",
+    "name": "Learn X (런엑스)"
+  },
+  {
+    "id": 351,
+    "category": "민간(국산)",
+    "provider": "뉴런커넥트",
+    "name": "A-City"
+  },
+  {
+    "id": 352,
+    "category": "민간(국산)",
+    "provider": "렛츠립업",
+    "name": "코드이썬"
+  },
+  {
+    "id": 353,
+    "category": "민간(국산)",
+    "provider": "주식회사 헬프티처",
+    "name": "AI 상담실 (MIND:ROOM)"
+  },
+  {
+    "id": 354,
+    "category": "민간(국산)",
+    "provider": "주식회사 아이디프로",
+    "name": "스쿨라이프"
+  },
+  {
+    "id": 355,
+    "category": "민간(국산)",
+    "provider": "(주)진학사",
+    "name": "진학통/진학사 학생관리프로그램"
+  },
+  {
+    "id": 356,
+    "category": "민간(국산)",
+    "provider": "아이비테크 주식회사",
+    "name": "테미"
+  },
+  {
+    "id": 357,
+    "category": "민간(국산)",
+    "provider": "미래과학",
+    "name": "AR태양계행성학습카드 / 미래과학 AR"
+  },
+  {
+    "id": 358,
+    "category": "민간(국산)",
+    "provider": "미래과학",
+    "name": "화학반응AR카드(화학반응식) / 화학반응 AR"
+  },
+  {
+    "id": 359,
+    "category": "민간(국산)",
+    "provider": "미래과학",
+    "name": "식물카드 / 미래과학 AR"
+  },
+  {
+    "id": 360,
+    "category": "민간(국산)",
+    "provider": "미래과학",
+    "name": "동물카드 / 미래과학 AR"
+  },
+  {
+    "id": 361,
+    "category": "민간(국산)",
+    "provider": "주식회사 워크와이즈",
+    "name": "Mentor Online"
+  },
+  {
+    "id": 362,
+    "category": "민간(국산)",
+    "provider": "(주)웅진씽크빅",
+    "name": "스마트올 초등"
+  },
+  {
+    "id": 363,
+    "category": "민간(국산)",
+    "provider": "노원비하인드 주식회사",
+    "name": "ALC 학습분석 시스템"
+  },
+  {
+    "id": 364,
+    "category": "민간(국산)",
+    "provider": "(주)도서출판 길벗",
+    "name": "길벗스쿨 / 학습지원자료"
+  },
+  {
+    "id": 365,
+    "category": "민간(국산)",
+    "provider": "(주)도서출판 길벗",
+    "name": "길벗·이지톡 / 학습지원자료"
+  },
+  {
+    "id": 366,
+    "category": "민간(국산)",
+    "provider": "주식회사지누켐",
+    "name": "Jinu e-note"
+  },
+  {
+    "id": 367,
+    "category": "민간(국산)",
+    "provider": "주식회사 뱁션",
+    "name": "동영상편집프로그램 - 뱁믹스2"
+  },
+  {
+    "id": 368,
+    "category": "민간(국산)",
+    "provider": "(주)공도",
+    "name": "공학도서관"
+  },
+  {
+    "id": 369,
+    "category": "민간(국산)",
+    "provider": "네이처링 주식회사",
+    "name": "스쿨네이처링"
+  },
+  {
+    "id": 370,
+    "category": "민간(국산)",
+    "provider": "주식회사 화신이앤엘(E&L)",
+    "name": "매쓰프로"
+  },
+  {
+    "id": 371,
+    "category": "민간(국산)",
+    "provider": "클래스카드",
+    "name": "클래스5"
+  },
+  {
+    "id": 372,
+    "category": "민간(국산)",
+    "provider": "주식회사 와이케이사이언스",
+    "name": "파스코 ON"
+  },
+  {
+    "id": 373,
+    "category": "민간(국산)",
+    "provider": "에듀지원 주식회사",
+    "name": "다했니"
+  },
+  {
+    "id": 374,
+    "category": "민간(국산)",
+    "provider": "들샘미디어",
+    "name": "들샘클래스ON"
+  },
+  {
+    "id": 375,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "고교학점제 대비 대학계열 탐색검사"
+  },
+  {
+    "id": 376,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "오엠알커리어넷"
+  },
+  {
+    "id": 377,
+    "category": "민간(국산)",
+    "provider": "주식회사지누켐",
+    "name": "모아 학급회의"
+  },
+  {
+    "id": 378,
+    "category": "민간(국산)",
+    "provider": "주식회사 유스타터",
+    "name": "플레이스타트업 키즈"
+  },
+  {
+    "id": 379,
+    "category": "민간(국산)",
+    "provider": "브릭슨",
+    "name": "지니키즈"
+  },
+  {
+    "id": 380,
+    "category": "민간(국산)",
+    "provider": "블록스푼 주식회사",
+    "name": "칼리지스"
+  },
+  {
+    "id": 381,
+    "category": "민간(국산)",
+    "provider": "주식회사 서큘러스",
+    "name": "또박한글"
+  },
+  {
+    "id": 382,
+    "category": "민간(국산)",
+    "provider": "주식회사 유스타터",
+    "name": "내일의 직업을 찾아서"
+  },
+  {
+    "id": 383,
+    "category": "민간(국산)",
+    "provider": "주식회사 유스타터",
+    "name": "플레이스타트업"
+  },
+  {
+    "id": 384,
+    "category": "민간(국산)",
+    "provider": "브릭슨",
+    "name": "지니스쿨"
+  },
+  {
+    "id": 385,
+    "category": "민간(국산)",
+    "provider": "주식회사 서큘러스",
+    "name": "생성 AI 종합 플랫폼 캔버스"
+  },
+  {
+    "id": 386,
+    "category": "민간(국산)",
+    "provider": "주식회사 토룩",
+    "name": "AI 소셜로봇 리쿠"
+  },
+  {
+    "id": 387,
+    "category": "민간(국산)",
+    "provider": "주식회사 서큘러스",
+    "name": "온디바이스 AI키트 파이브레인"
+  },
+  {
+    "id": 388,
+    "category": "민간(국산)",
+    "provider": "주식회사 서큘러스",
+    "name": "휴머노이드형 AI 교육용 로봇 파이보"
+  },
+  {
+    "id": 389,
+    "category": "민간(국산)",
+    "provider": "(주)도서출판 길벗",
+    "name": "길벗교과서 / 교수학습자료, 전자저작물"
+  },
+  {
+    "id": 390,
+    "category": "민간(국산)",
+    "provider": "(주)힐링샘",
+    "name": "천사일지 (보건일지)"
+  },
+  {
+    "id": 391,
+    "category": "민간(국산)",
+    "provider": "주식회사 스마트소셜",
+    "name": "꿈多이음 다문화 학생들의 꿈을 이어주는 진로 플랫폼"
+  },
+  {
+    "id": 392,
+    "category": "민간(국산)",
+    "provider": "(주)데이터드리븐",
+    "name": "클리포"
+  },
+  {
+    "id": 393,
+    "category": "민간(국산)",
+    "provider": "한국신체정보(주)",
+    "name": "Real PT"
+  },
+  {
+    "id": 394,
+    "category": "민간(국산)",
+    "provider": "주식회사 마음사랑",
+    "name": "상담지원 플랫폼 밍글 mingl"
+  },
+  {
+    "id": 395,
+    "category": "민간(국산)",
+    "provider": "주식회사 다넥트",
+    "name": "심그라운드"
+  },
+  {
+    "id": 396,
+    "category": "민간(국산)",
+    "provider": "주식회사 휴몬랩",
+    "name": "교풀AI"
+  },
+  {
+    "id": 397,
+    "category": "민간(국산)",
+    "provider": "유비온",
+    "name": "딥코 스튜디오"
+  },
+  {
+    "id": 398,
+    "category": "민간(국산)",
+    "provider": "키즐링 주식회사",
+    "name": "키즐링"
+  },
+  {
+    "id": 399,
+    "category": "민간(국산)",
+    "provider": "(주)플레도",
+    "name": "AI 플레도"
+  },
+  {
+    "id": 400,
+    "category": "민간(국산)",
+    "provider": "로데브(주)",
+    "name": "코디마스터 NFC출석체크"
+  },
+  {
+    "id": 401,
+    "category": "민간(국산)",
+    "provider": "세광음악출판사",
+    "name": "교사용 E-BOOK"
+  },
+  {
+    "id": 402,
+    "category": "민간(국산)",
+    "provider": "키네마스터 주식회사",
+    "name": "키네마스터"
+  },
+  {
+    "id": 403,
+    "category": "민간(국산)",
+    "provider": "로데브(주)",
+    "name": "코디마스터 자유학기제관리시스템"
+  },
+  {
+    "id": 404,
+    "category": "민간(국산)",
+    "provider": "로데브(주)",
+    "name": "코디마스터 방과후관리시스템"
+  },
+  {
+    "id": 405,
+    "category": "민간(국산)",
+    "provider": "마타에듀",
+    "name": "AI마타수학"
+  },
+  {
+    "id": 406,
+    "category": "민간(국산)",
+    "provider": "(주)커넥트에듀",
+    "name": "ET-Craft (AI 영어문항 생성기)"
+  },
+  {
+    "id": 407,
+    "category": "민간(국산)",
+    "provider": "주식회사 마음사랑",
+    "name": "심리검사 채점프로그램 (MMPI, TCI)"
+  },
+  {
+    "id": 408,
+    "category": "민간(국산)",
+    "provider": "주식회사 하이씨티",
+    "name": "이지온"
+  },
+  {
+    "id": 409,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "기숙사 관리 프로그램"
+  },
+  {
+    "id": 410,
+    "category": "민간(국산)",
+    "provider": "비디오스튜 주식회사",
+    "name": "비디오스튜"
+  },
+  {
+    "id": 411,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "SDP스쿨솔루션"
+  },
+  {
+    "id": 412,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "BLSN 수능모의고사"
+  },
+  {
+    "id": 413,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "온라인 수강 신청"
+  },
+  {
+    "id": 414,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "학생역량강화 솔루션"
+  },
+  {
+    "id": 415,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "BLhigh 성적처리"
+  },
+  {
+    "id": 416,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "BLjung 성적처리"
+  },
+  {
+    "id": 417,
+    "category": "민간(국산)",
+    "provider": "주식회사 에코플레이",
+    "name": "멸종위기동물 AR 구조대"
+  },
+  {
+    "id": 418,
+    "category": "민간(국산)",
+    "provider": "(주)새로운교육",
+    "name": "K-공학스쿨"
+  },
+  {
+    "id": 419,
+    "category": "민간(국산)",
+    "provider": "한국가이던스",
+    "name": "심리검사"
+  },
+  {
+    "id": 420,
+    "category": "민간(국산)",
+    "provider": "재단법인 엔씨문화재단",
+    "name": "나의AAC"
+  },
+  {
+    "id": 421,
+    "category": "민간(국산)",
+    "provider": "(주)이지시스템",
+    "name": "Pentalk Pro"
+  },
+  {
+    "id": 422,
+    "category": "민간(국산)",
+    "provider": "스왈라비(주)",
+    "name": "워크온"
+  },
+  {
+    "id": 423,
+    "category": "민간(국산)",
+    "provider": "(주)셈웨어",
+    "name": "스팀업 아카데미"
+  },
+  {
+    "id": 424,
+    "category": "민간(국산)",
+    "provider": "에이아이데이타",
+    "name": "알콩"
+  },
+  {
+    "id": 425,
+    "category": "민간(국산)",
+    "provider": "주식회사 코퍼스랩",
+    "name": "한국어 속뜻사전"
+  },
+  {
+    "id": 426,
+    "category": "민간(국산)",
+    "provider": "재단법인 씨앗",
+    "name": "두루책방"
+  },
+  {
+    "id": 427,
+    "category": "민간(국산)",
+    "provider": "주식회사 동양북스",
+    "name": "중학교 생활 중국어 교과서 (2022개정) - 전자저작물"
+  },
+  {
+    "id": 428,
+    "category": "민간(국산)",
+    "provider": "폭스커넥트",
+    "name": "AI Feel"
+  },
+  {
+    "id": 429,
+    "category": "민간(국산)",
+    "provider": "코디플레이",
+    "name": "코디플레이"
+  },
+  {
+    "id": 430,
+    "category": "민간(국산)",
+    "provider": "주식회사 성주코퍼레이션",
+    "name": "그림한글 받아쓰기"
+  },
+  {
+    "id": 431,
+    "category": "민간(국산)",
+    "provider": "네이버 주식회사",
+    "name": "웨일 스페이스"
+  },
+  {
+    "id": 432,
+    "category": "민간(국산)",
+    "provider": "(주)코더블",
+    "name": "위즈밴드"
+  },
+  {
+    "id": 433,
+    "category": "민간(국산)",
+    "provider": "(주)코더블",
+    "name": "위즈컨트롤러"
+  },
+  {
+    "id": 434,
+    "category": "민간(국산)",
+    "provider": "(주)코더블",
+    "name": "코딩스쿨"
+  },
+  {
+    "id": 435,
+    "category": "민간(국산)",
+    "provider": "(주)코더블",
+    "name": "코짐"
+  },
+  {
+    "id": 436,
+    "category": "민간(국산)",
+    "provider": "주식회사 씨마스",
+    "name": "티칭샘, 클래스링크 랩"
+  },
+  {
+    "id": 437,
+    "category": "민간(국산)",
+    "provider": "(주)미래엔",
+    "name": "미래엔 엠티처"
+  },
+  {
+    "id": 438,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "masterTOPIK"
+  },
+  {
+    "id": 439,
+    "category": "민간(국산)",
+    "provider": "마크노바에듀 주식회사",
+    "name": "알버트 AI"
+  },
+  {
+    "id": 440,
+    "category": "민간(국산)",
+    "provider": "주식회사 인핸스유",
+    "name": "셀프뷰(SelfView)"
+  },
+  {
+    "id": 441,
+    "category": "민간(국산)",
+    "provider": "주식회사 큐브로이드",
+    "name": "큐로AI"
+  },
+  {
+    "id": 442,
+    "category": "민간(국산)",
+    "provider": "주식회사 비피",
+    "name": "브로콜리 코딩"
+  },
+  {
+    "id": 443,
+    "category": "민간(국산)",
+    "provider": "(주)엑스메카",
+    "name": "디비디비스쿨 / 방과후학교 프로그램"
+  },
+  {
+    "id": 444,
+    "category": "민간(국산)",
+    "provider": "(주)스위트북",
+    "name": "AI스토리교실"
+  },
+  {
+    "id": 445,
+    "category": "민간(국산)",
+    "provider": "포커스교육연구소",
+    "name": "AI인적성검사 (GFAT)"
+  },
+  {
+    "id": 446,
+    "category": "민간(국산)",
+    "provider": "파프리카",
+    "name": "스쿨마스터"
+  },
+  {
+    "id": 447,
+    "category": "민간(국산)",
+    "provider": "책과사람교육원",
+    "name": "올바른 책 읽기(리드인)"
+  },
+  {
+    "id": 448,
+    "category": "민간(국산)",
+    "provider": "(주)커넥트에듀",
+    "name": "중•고등 Reading&Writing"
+  },
+  {
+    "id": 449,
+    "category": "민간(국산)",
+    "provider": "주식회사 프리윌린",
+    "name": "스쿨플랫"
+  },
+  {
+    "id": 450,
+    "category": "민간(국산)",
+    "provider": "브레인다이브",
+    "name": "스마일보건"
+  },
+  {
+    "id": 451,
+    "category": "민간(국산)",
+    "provider": "주식회사 프리윌린",
+    "name": "풀리스쿨"
+  },
+  {
+    "id": 452,
+    "category": "민간(국산)",
+    "provider": "부산보건고등학교 하이테크노학교기업",
+    "name": "하이에듀(Hiedu)"
+  },
+  {
+    "id": 453,
+    "category": "민간(국산)",
+    "provider": "(주) 더존비즈온",
+    "name": "NEW sPLUS(더존 Smart A)"
+  },
+  {
+    "id": 454,
+    "category": "민간(국산)",
+    "provider": "(주) 더존비즈온",
+    "name": "더존 Smart A(iPLUS)"
+  },
+  {
+    "id": 455,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "진진리서치 학사지원 원스톱 솔루션"
+  },
+  {
+    "id": 456,
+    "category": "민간(국산)",
+    "provider": "이지에듀정보(주)",
+    "name": "이지에듀"
+  },
+  {
+    "id": 457,
+    "category": "민간(국산)",
+    "provider": "이지에듀정보(주)",
+    "name": "이지에듀 투게더"
+  },
+  {
+    "id": 458,
+    "category": "민간(국산)",
+    "provider": "미소들 소프트웨어",
+    "name": "페직스 유료 실험 회원 구독"
+  },
+  {
+    "id": 459,
+    "category": "민간(국산)",
+    "provider": "주식회사 크리에이티브마인드",
+    "name": "뮤지아 원"
+  },
+  {
+    "id": 460,
+    "category": "민간(국산)",
+    "provider": "주식회사 패러닷 (Paradot Corp)",
+    "name": "캐럿AI"
+  },
+  {
+    "id": 461,
+    "category": "민간(국산)",
+    "provider": "주식회사 위즈엑스퍼트",
+    "name": "닥줌 라이브캡션"
+  },
+  {
+    "id": 462,
+    "category": "민간(국산)",
+    "provider": "주식회사 타임리",
+    "name": "타임리GPT"
+  },
+  {
+    "id": 463,
+    "category": "민간(국산)",
+    "provider": "(주) 더존비즈온",
+    "name": "iCUBE 핵심ERP"
+  },
+  {
+    "id": 464,
+    "category": "민간(국산)",
+    "provider": "예스이십사 주식회사",
+    "name": "예스이십사 소장형 전자도서관"
+  },
+  {
+    "id": 465,
+    "category": "민간(국산)",
+    "provider": "주식회사 팔로",
+    "name": "열품타"
+  },
+  {
+    "id": 466,
+    "category": "민간(국산)",
+    "provider": "주식회사 북레일",
+    "name": "북레일"
+  },
+  {
+    "id": 467,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "학내망 스마트 채점"
+  },
+  {
+    "id": 468,
+    "category": "민간(국산)",
+    "provider": "(주)내신닷컴",
+    "name": "내신닷컴 단체가입"
+  },
+  {
+    "id": 469,
+    "category": "민간(국산)",
+    "provider": "주식회사 피씨엔씨",
+    "name": "토핑"
+  },
+  {
+    "id": 470,
+    "category": "민간(국산)",
+    "provider": "(주)이팝소프트",
+    "name": "말해보카"
+  },
+  {
+    "id": 471,
+    "category": "민간(국산)",
+    "provider": "주식회사 에듀템",
+    "name": "스픽마스터"
+  },
+  {
+    "id": 472,
+    "category": "민간(국산)",
+    "provider": "(주)메타교육",
+    "name": "메타수학"
+  },
+  {
+    "id": 473,
+    "category": "민간(국산)",
+    "provider": "아이티메인주식회사",
+    "name": "고교학점제학사관리프로그램"
+  },
+  {
+    "id": 474,
+    "category": "민간(국산)",
+    "provider": "주식회사 클래스포에듀",
+    "name": "찾아가는 AI 체험학습"
+  },
+  {
+    "id": 475,
+    "category": "민간(국산)",
+    "provider": "비엘소프트",
+    "name": "대학입학정보프로그램 유니브"
+  },
+  {
+    "id": 476,
+    "category": "민간(국산)",
+    "provider": "독서문화연구원",
+    "name": "독서화랑 클래스"
+  },
+  {
+    "id": 477,
+    "category": "민간(국산)",
+    "provider": "(주)글로브포인트",
+    "name": "METAWARE Edu School"
+  },
+  {
+    "id": 478,
+    "category": "민간(국산)",
+    "provider": "케이씨글로벌(주)",
+    "name": "셰르파XR 메타퀘스트3 스쿨키트"
+  },
+  {
+    "id": 479,
+    "category": "민간(국산)",
+    "provider": "주식회사 슬링",
+    "name": "Quik"
+  },
+  {
+    "id": 480,
+    "category": "민간(국산)",
+    "provider": "큐밋(Qmeet)",
+    "name": "큐밋 포토폴리오(생활기록부 AI)"
+  },
+  {
+    "id": 481,
+    "category": "민간(국산)",
+    "provider": "테크빌교육(주)",
+    "name": "뚝딱샵"
+  },
+  {
+    "id": 482,
+    "category": "민간(국산)",
+    "provider": "(주)인싸이트",
+    "name": "표준화 심리검사"
+  },
+  {
+    "id": 483,
+    "category": "민간(국산)",
+    "provider": "(주)로보메이션",
+    "name": "포켓터틀+ 음악코딩 BLE"
+  },
+  {
+    "id": 484,
+    "category": "민간(국산)",
+    "provider": "(주)로보메이션",
+    "name": "포켓터틀+ 카드코딩 BLE"
+  },
+  {
+    "id": 485,
+    "category": "민간(국산)",
+    "provider": "코리아디지탈㈜",
+    "name": "Science# for iOS"
+  },
+  {
+    "id": 486,
+    "category": "민간(국산)",
+    "provider": "코리아디지탈㈜",
+    "name": "Science# for Android"
+  },
+  {
+    "id": 487,
+    "category": "민간(국산)",
+    "provider": "코리아디지탈㈜",
+    "name": "Science# for web"
+  },
+  {
+    "id": 488,
+    "category": "민간(국산)",
+    "provider": "코리아디지탈㈜",
+    "name": "Science# for Windows"
+  },
+  {
+    "id": 489,
+    "category": "민간(국산)",
+    "provider": "(주)투비유니콘",
+    "name": "노크"
+  },
+  {
+    "id": 490,
+    "category": "민간(국산)",
+    "provider": "(주) 교보문고",
+    "name": "교보문고 소장형 전자도서관"
+  },
+  {
+    "id": 491,
+    "category": "민간(국산)",
+    "provider": "누리미디어",
+    "name": "DBpia AI"
+  },
+  {
+    "id": 492,
+    "category": "민간(국산)",
+    "provider": "누리미디어",
+    "name": "KRpia"
+  },
+  {
+    "id": 493,
+    "category": "민간(국산)",
+    "provider": "완소프트",
+    "name": "WiseMiM (PC용 프로그램)"
+  },
+  {
+    "id": 494,
+    "category": "민간(국산)",
+    "provider": "완소프트",
+    "name": "Math in Math (웹버전)"
+  },
+  {
+    "id": 495,
+    "category": "민간(국산)",
+    "provider": "써큘러스리더(주)_운영",
+    "name": "아이설렘 한글과 아이설렘 수학"
+  },
+  {
+    "id": 496,
+    "category": "민간(국산)",
+    "provider": "(주) 교보문고",
+    "name": "교보문고 구독형 전자도서관"
+  },
+  {
+    "id": 497,
+    "category": "민간(국산)",
+    "provider": "누리미디어",
+    "name": "디비피아"
+  },
+  {
+    "id": 498,
+    "category": "민간(국산)",
+    "provider": "(주)화이트소프트",
+    "name": "이음AI"
+  },
+  {
+    "id": 499,
+    "category": "민간(국산)",
+    "provider": "오선하이테크(주)",
+    "name": "OSUN 4.0"
+  },
+  {
+    "id": 500,
+    "category": "민간(국산)",
+    "provider": "(사)한국비버정보교육연합",
+    "name": "한국비버챌린지"
+  },
+  {
+    "id": 501,
+    "category": "민간(국산)",
+    "provider": "주식회사 아트앤컬처",
+    "name": "아트앤컬처 초등 미술"
+  },
+  {
+    "id": 502,
+    "category": "민간(국산)",
+    "provider": "(주)천재교과서",
+    "name": "밀크T고등"
+  },
+  {
+    "id": 503,
+    "category": "민간(국산)",
+    "provider": "(주)천재교과서",
+    "name": "밀크T중학"
+  },
+  {
+    "id": 504,
+    "category": "민간(국산)",
+    "provider": "(주)에스프레소북",
+    "name": "하루북"
+  },
+  {
+    "id": 505,
+    "category": "민간(국산)",
+    "provider": "주식회사 코코드론",
+    "name": "DIY 캐릭터 종이코딩드론"
+  },
+  {
+    "id": 506,
+    "category": "민간(국산)",
+    "provider": "(주)천재교과서",
+    "name": "밀크T초등"
+  },
+  {
+    "id": 507,
+    "category": "민간(국산)",
+    "provider": "드림앤잡스",
+    "name": "그린스마트스쿨 및 지능형 과학실 VR 메타 퀘스트3S"
+  },
+  {
+    "id": 508,
+    "category": "민간(국산)",
+    "provider": "(주)심테크시스템",
+    "name": "웹용 디지털 마인드맵 ThinkWise"
+  },
+  {
+    "id": 509,
+    "category": "민간(국산)",
+    "provider": "(주)두산디지털이노베이션",
+    "name": "Hey, HECTO(가칭)"
+  },
+  {
+    "id": 510,
+    "category": "민간(국산)",
+    "provider": "주식회사 이웃닷컴",
+    "name": "e알리미"
+  },
+  {
+    "id": 511,
+    "category": "민간(국산)",
+    "provider": "주식회사 학교종이",
+    "name": "학교종이"
+  },
+  {
+    "id": 512,
+    "category": "민간(국산)",
+    "provider": "(주)로보메이션",
+    "name": "Hamster Soccer- 햄스터  축구 조이스틱"
+  },
+  {
+    "id": 513,
+    "category": "민간(국산)",
+    "provider": "(주)로보메이션",
+    "name": "Pio Play - 삐오 플레이"
+  },
+  {
+    "id": 514,
+    "category": "민간(국산)",
+    "provider": "(주)로보메이션",
+    "name": "RaccoonBot - 라쿤봇 조이스틱"
+  },
+  {
+    "id": 515,
+    "category": "민간(국산)",
+    "provider": "(주)로보메이션",
+    "name": "Robomation DFU -  로보메이션 DFU"
+  },
+  {
+    "id": 516,
+    "category": "민간(국산)",
+    "provider": "(주)로보메이션",
+    "name": "로보이드 메이커"
+  },
+  {
+    "id": 517,
+    "category": "민간(국산)",
+    "provider": "(주)로보메이션",
+    "name": "로보메이션랩"
+  },
+  {
+    "id": 518,
+    "category": "민간(국산)",
+    "provider": "주식회사 티씨컴퍼니",
+    "name": "에듀립"
+  },
+  {
+    "id": 519,
+    "category": "민간(국산)",
+    "provider": "(주)커넥트에듀",
+    "name": "스마트리 통합서비스"
+  },
+  {
+    "id": 520,
+    "category": "민간(국산)",
+    "provider": "로보링크 주식회사",
+    "name": "코드론 / 로킷 브릭"
+  },
+  {
+    "id": 521,
+    "category": "민간(국산)",
+    "provider": "주식회사똑플러스",
+    "name": "똑책 독서퀴즈"
+  },
+  {
+    "id": 522,
+    "category": "민간(국산)",
+    "provider": "로보링크 주식회사",
+    "name": "코드론 / 블록클리"
+  },
+  {
+    "id": 523,
+    "category": "민간(국산)",
+    "provider": "로보링크 주식회사",
+    "name": "주미 미니 / 주미 미니 앱"
+  },
+  {
+    "id": 524,
+    "category": "민간(국산)",
+    "provider": "로보링크 주식회사",
+    "name": "주미 AI / 주미 AI 스크래치"
+  },
+  {
+    "id": 525,
+    "category": "민간(국산)",
+    "provider": "로보링크 주식회사",
+    "name": "주미 AI / 주미 AI 앱"
+  },
+  {
+    "id": 526,
+    "category": "민간(국산)",
+    "provider": "동해삼육사회적협동조합",
+    "name": "DRM AI 엑셀 추가 기능"
+  },
+  {
+    "id": 527,
+    "category": "민간(국산)",
+    "provider": "(주)음악과생활",
+    "name": "음악과생활"
+  },
+  {
+    "id": 528,
+    "category": "민간(국산)",
+    "provider": "알리아스",
+    "name": "OK증명알리아스"
+  },
+  {
+    "id": 529,
+    "category": "민간(국산)",
+    "provider": "이케이 주식회사",
+    "name": "누리놀이"
+  },
+  {
+    "id": 530,
+    "category": "민간(국산)",
+    "provider": "주식회사 삼쩜일사",
+    "name": "비트블록"
+  },
+  {
+    "id": 531,
+    "category": "민간(국산)",
+    "provider": "이케이 주식회사",
+    "name": "누리놀이 위드"
+  },
+  {
+    "id": 532,
+    "category": "민간(국산)",
+    "provider": "이케이 주식회사",
+    "name": "키드키즈"
+  },
+  {
+    "id": 533,
+    "category": "민간(국산)",
+    "provider": "주식회사 삼쩜일사",
+    "name": "카미봇파이AI"
+  },
+  {
+    "id": 534,
+    "category": "민간(국산)",
+    "provider": "(사)한국비버정보교육연합",
+    "name": "BIKO"
+  },
+  {
+    "id": 535,
+    "category": "민간(국산)",
+    "provider": "(주)체육과건강",
+    "name": "체육과건강"
+  },
+  {
+    "id": 536,
+    "category": "민간(국산)",
+    "provider": "피치마켓",
+    "name": "피치서가"
+  },
+  {
+    "id": 537,
+    "category": "민간(국산)",
+    "provider": "스타트씨주식회사",
+    "name": "초코파이썬"
+  },
+  {
+    "id": 538,
+    "category": "민간(국산)",
+    "provider": "(주)퓨전소프트",
+    "name": "우리반"
+  },
+  {
+    "id": 539,
+    "category": "민간(국산)",
+    "provider": "상태창(StatUp)",
+    "name": "상태창"
+  },
+  {
+    "id": 540,
+    "category": "민간(국산)",
+    "provider": "쓰리알이노베이션",
+    "name": "포커스팡 AI"
+  },
+  {
+    "id": 541,
+    "category": "민간(국산)",
+    "provider": "(주)신지식교육",
+    "name": "리딩비 AI 영어독서 프로그램"
+  },
+  {
+    "id": 542,
+    "category": "민간(국산)",
+    "provider": "주식회사 에듀템",
+    "name": "보라구 중국어 Class"
+  },
+  {
+    "id": 543,
+    "category": "민간(국산)",
+    "provider": "헬로앱스",
+    "name": "메타버스 코딩 SW"
+  },
+  {
+    "id": 544,
+    "category": "민간(국산)",
+    "provider": "뤼튼테크놀로지스",
+    "name": "뤼튼"
+  },
+  {
+    "id": 545,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "Oxford Discover Futures"
+  },
+  {
+    "id": 546,
+    "category": "민간(국산)",
+    "provider": "주식회사 피클랩",
+    "name": "피클"
+  },
+  {
+    "id": 547,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "Oxford Discover"
+  },
+  {
+    "id": 548,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "Math Alive"
+  },
+  {
+    "id": 549,
+    "category": "민간(국산)",
+    "provider": "무하유",
+    "name": "카피킬러스쿨"
+  },
+  {
+    "id": 550,
+    "category": "민간(국산)",
+    "provider": "무하유",
+    "name": "몬스터T"
+  },
+  {
+    "id": 551,
+    "category": "민간(국산)",
+    "provider": "무하유",
+    "name": "CKPASS"
+  },
+  {
+    "id": 552,
+    "category": "민간(국산)",
+    "provider": "무하유",
+    "name": "카피킬러"
+  },
+  {
+    "id": 553,
+    "category": "민간(국산)",
+    "provider": "팜피주식회사",
+    "name": "아폭(apoc)"
+  },
+  {
+    "id": 554,
+    "category": "민간(국산)",
+    "provider": "바이브온코퍼레이션",
+    "name": "바이브온T"
+  },
+  {
+    "id": 555,
+    "category": "민간(국산)",
+    "provider": "(주)리틀팍스",
+    "name": "초등 온라인 영어 콘텐츠"
+  },
+  {
+    "id": 556,
+    "category": "민간(국산)",
+    "provider": "NE능률",
+    "name": "엔이티처"
+  },
+  {
+    "id": 557,
+    "category": "민간(국산)",
+    "provider": "주식회사 리로소프트",
+    "name": "리로스쿨"
+  },
+  {
+    "id": 558,
+    "category": "민간(국산)",
+    "provider": "(주)윈테크",
+    "name": "AI CLASS"
+  },
+  {
+    "id": 559,
+    "category": "민간(국산)",
+    "provider": "(주)로보라이즌",
+    "name": "핑퐁로봇 스크래치 3.0 (PC용)"
+  },
+  {
+    "id": 560,
+    "category": "민간(국산)",
+    "provider": "(주)로보라이즌",
+    "name": "핑퐁로봇 Abled pingpong 앱"
+  },
+  {
+    "id": 561,
+    "category": "민간(국산)",
+    "provider": "(주)로보라이즌",
+    "name": "핑퐁로봇 그룹위저드앱"
+  },
+  {
+    "id": 562,
+    "category": "민간(국산)",
+    "provider": "(주)로보라이즌",
+    "name": "핑퐁로봇 M코딩앱"
+  },
+  {
+    "id": 563,
+    "category": "민간(국산)",
+    "provider": "(주)로보라이즌",
+    "name": "핑퐁로봇 스크래치앱"
+  },
+  {
+    "id": 564,
+    "category": "민간(국산)",
+    "provider": "(주)로보라이즌",
+    "name": "핑퐁로봇 V코딩앱"
+  },
+  {
+    "id": 565,
+    "category": "민간(국산)",
+    "provider": "(주)로보라이즌",
+    "name": "핑퐁로봇 앱"
+  },
+  {
+    "id": 566,
+    "category": "민간(국산)",
+    "provider": "CT",
+    "name": "클래스팅 클래스"
+  },
+  {
+    "id": 567,
+    "category": "민간(국산)",
+    "provider": "주식회사 핏테크",
+    "name": "에듀핏"
+  },
+  {
+    "id": 568,
+    "category": "민간(국산)",
+    "provider": "리딩스타(주)",
+    "name": "RSPT"
+  },
+  {
+    "id": 569,
+    "category": "민간(국산)",
+    "provider": "리딩스타(주)",
+    "name": "e-RS"
+  },
+  {
+    "id": 570,
+    "category": "민간(국산)",
+    "provider": "주식회사 레드포인트",
+    "name": "리얼월드 스쿨"
+  },
+  {
+    "id": 571,
+    "category": "민간(국산)",
+    "provider": "(주)넥슨코리아",
+    "name": "헬로메이플"
+  },
+  {
+    "id": 572,
+    "category": "민간(국산)",
+    "provider": "(주)제이지비퍼블릭",
+    "name": "위툰"
+  },
+  {
+    "id": 573,
+    "category": "민간(국산)",
+    "provider": "주식회사 투핸즈인터랙티브",
+    "name": "디딤"
+  },
+  {
+    "id": 574,
+    "category": "민간(국산)",
+    "provider": "(주)커넥트에듀",
+    "name": "중•고등 Reading"
+  },
+  {
+    "id": 575,
+    "category": "민간(국산)",
+    "provider": "(주)두산디지털이노베이션",
+    "name": "두피디아"
+  },
+  {
+    "id": 576,
+    "category": "민간(국산)",
+    "provider": "주식회사 창비교육",
+    "name": "수업지원자료실"
+  },
+  {
+    "id": 577,
+    "category": "민간(국산)",
+    "provider": "주식회사 퓨너스",
+    "name": "콘텐츠플러스"
+  },
+  {
+    "id": 578,
+    "category": "민간(국산)",
+    "provider": "(주)커넥트에듀",
+    "name": "스마트리 기초학력 해결"
+  },
+  {
+    "id": 579,
+    "category": "민간(국산)",
+    "provider": "클래스카드",
+    "name": "클래스카드"
+  },
+  {
+    "id": 580,
+    "category": "민간(국산)",
+    "provider": "주식회사 퓨너스",
+    "name": "레고 에듀케이션 사이언스 / 시크릿노트"
+  },
+  {
+    "id": 581,
+    "category": "민간(국산)",
+    "provider": "(주)네패스",
+    "name": "AI 금쪽이 스피커 / 금쪽이 에듀"
+  },
+  {
+    "id": 582,
+    "category": "민간(국산)",
+    "provider": "주식회사 퓨너스",
+    "name": "AI이거다"
+  },
+  {
+    "id": 583,
+    "category": "민간(국산)",
+    "provider": "네오피아",
+    "name": "모아이"
+  },
+  {
+    "id": 584,
+    "category": "민간(국산)",
+    "provider": "네오피아",
+    "name": "플랫코"
+  },
+  {
+    "id": 585,
+    "category": "민간(국산)",
+    "provider": "네오피아",
+    "name": "네오봇 에듀 스마트"
+  },
+  {
+    "id": 586,
+    "category": "민간(국산)",
+    "provider": "네오피아",
+    "name": "네오쏘코"
+  },
+  {
+    "id": 587,
+    "category": "민간(국산)",
+    "provider": "네오피아",
+    "name": "네오씽카"
+  },
+  {
+    "id": 588,
+    "category": "민간(국산)",
+    "provider": "주식회사 바토너스",
+    "name": "BSL Education"
+  },
+  {
+    "id": 589,
+    "category": "민간(국산)",
+    "provider": "네오피아",
+    "name": "New_아이온(AiON)"
+  },
+  {
+    "id": 590,
+    "category": "민간(국산)",
+    "provider": "네오피아",
+    "name": "아이블(Aible)"
+  },
+  {
+    "id": 591,
+    "category": "민간(국산)",
+    "provider": "주식회사 비주얼캠프",
+    "name": "리드포스쿨"
+  },
+  {
+    "id": 592,
+    "category": "민간(국산)",
+    "provider": "주식회사 에이다",
+    "name": "AI 한자몬"
+  },
+  {
+    "id": 593,
+    "category": "민간(국산)",
+    "provider": "어크로스페이스(주)",
+    "name": "폴리곤에이드"
+  },
+  {
+    "id": 594,
+    "category": "민간(국산)",
+    "provider": "어크로스페이스(주)",
+    "name": "아지틴즈"
+  },
+  {
+    "id": 595,
+    "category": "민간(국산)",
+    "provider": "주식회사 모티버",
+    "name": "모티버솔루션"
+  },
+  {
+    "id": 596,
+    "category": "민간(국산)",
+    "provider": "(주)아이포트폴리오",
+    "name": "리딩앤스쿨"
+  },
+  {
+    "id": 597,
+    "category": "민간(국산)",
+    "provider": "주식회사 미리디",
+    "name": "미리캔버스"
+  },
+  {
+    "id": 598,
+    "category": "민간(국산)",
+    "provider": "시스트주식회사",
+    "name": "AI 스포츠 올인원 B 1.0"
+  },
+  {
+    "id": 599,
+    "category": "민간(국산)",
+    "provider": "무궁유교",
+    "name": "인파이니 키즈 (잉키)"
+  },
+  {
+    "id": 600,
+    "category": "민간(국산)",
+    "provider": "네오폰스",
+    "name": "토키랜드"
+  },
+  {
+    "id": 601,
+    "category": "민간(국산)",
+    "provider": "주식회사로지브라더스",
+    "name": "코드모스"
+  },
+  {
+    "id": 602,
+    "category": "민간(국산)",
+    "provider": "시스트주식회사",
+    "name": "AI BMI & 악력"
+  },
+  {
+    "id": 603,
+    "category": "민간(국산)",
+    "provider": "시스트주식회사",
+    "name": "AI 스포츠 올인원 A 1.0"
+  },
+  {
+    "id": 604,
+    "category": "민간(국산)",
+    "provider": "시스트주식회사",
+    "name": "AI 스포츠 박스"
+  },
+  {
+    "id": 605,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "AI SPEAK 2.0 한국어"
+  },
+  {
+    "id": 606,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "AI SPEAK 2.0 영어"
+  },
+  {
+    "id": 607,
+    "category": "민간(국산)",
+    "provider": "주식회사 비주얼캠프",
+    "name": "이주배경학생 리드포스쿨"
+  },
+  {
+    "id": 608,
+    "category": "민간(국산)",
+    "provider": "NE능률",
+    "name": "엔이타임즈 영자신문 코스웨어"
+  },
+  {
+    "id": 609,
+    "category": "민간(국산)",
+    "provider": "넷츠프리 주식회사",
+    "name": "비토미"
+  },
+  {
+    "id": 610,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "master K"
+  },
+  {
+    "id": 611,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "AllviA CL"
+  },
+  {
+    "id": 612,
+    "category": "민간(국산)",
+    "provider": "브레인문해력연구소",
+    "name": "AI 브레인 문해력 학습 플랫폼"
+  },
+  {
+    "id": 613,
+    "category": "민간(국산)",
+    "provider": "주식회사 마르시스에듀",
+    "name": "로비코"
+  },
+  {
+    "id": 614,
+    "category": "민간(국산)",
+    "provider": "(주)글로브포인트",
+    "name": "VRWARE Edu StoryBuilder"
+  },
+  {
+    "id": 615,
+    "category": "민간(국산)",
+    "provider": "(주)글로브포인트",
+    "name": "VRWARE edu school"
+  },
+  {
+    "id": 616,
+    "category": "민간(국산)",
+    "provider": "와이즈온미디어",
+    "name": "고둥둥심포니 for EDU(음악,게임,애니메이션)"
+  },
+  {
+    "id": 617,
+    "category": "민간(국산)",
+    "provider": "(주)글로브포인트",
+    "name": "VRWARE ASSEMBLR EDU"
+  },
+  {
+    "id": 618,
+    "category": "민간(국산)",
+    "provider": "메가클래스 주식회사",
+    "name": "메가클래스"
+  },
+  {
+    "id": 619,
+    "category": "민간(국산)",
+    "provider": "데이터킹 주식회사",
+    "name": "헥사월드 에듀"
+  },
+  {
+    "id": 620,
+    "category": "민간(국산)",
+    "provider": "주식회사 에스덕",
+    "name": "에스덕"
+  },
+  {
+    "id": 621,
+    "category": "민간(국산)",
+    "provider": "주식회사 단비아이엔씨",
+    "name": "에이아이런"
+  },
+  {
+    "id": 622,
+    "category": "민간(국산)",
+    "provider": "천재교육",
+    "name": "T셀파"
+  },
+  {
+    "id": 623,
+    "category": "민간(국산)",
+    "provider": "주식회사 단비아이엔씨",
+    "name": "AI 크래프트"
+  },
+  {
+    "id": 624,
+    "category": "민간(국산)",
+    "provider": "주식회사 오늘배움",
+    "name": "주이즈"
+  },
+  {
+    "id": 625,
+    "category": "민간(국산)",
+    "provider": "(주)아이스크림아트",
+    "name": "아트봉봉스쿨"
+  },
+  {
+    "id": 626,
+    "category": "민간(국산)",
+    "provider": "넥스트웹 주식회사",
+    "name": "스터디에이(studyA)"
+  },
+  {
+    "id": 627,
+    "category": "민간(국산)",
+    "provider": "(주)금성출판사",
+    "name": "티칭허브"
+  },
+  {
+    "id": 628,
+    "category": "민간(국산)",
+    "provider": "주식회사 디엔소프트",
+    "name": "알공"
+  },
+  {
+    "id": 629,
+    "category": "민간(국산)",
+    "provider": "주식회사 새하컴즈",
+    "name": "보다"
+  },
+  {
+    "id": 630,
+    "category": "민간(국산)",
+    "provider": "에누마코리아",
+    "name": "토도영어"
+  },
+  {
+    "id": 631,
+    "category": "민간(국산)",
+    "provider": "에누마코리아",
+    "name": "토도수학"
+  },
+  {
+    "id": 632,
+    "category": "민간(국산)",
+    "provider": "에누마코리아",
+    "name": "토도한글"
+  },
+  {
+    "id": 633,
+    "category": "민간(국산)",
+    "provider": "주식회사 새하컴즈",
+    "name": "보다스쿨"
+  },
+  {
+    "id": 634,
+    "category": "민간(국산)",
+    "provider": "아이스크림에듀",
+    "name": "아이스크림 홈런"
+  },
+  {
+    "id": 635,
+    "category": "민간(국산)",
+    "provider": "아이스크림에듀",
+    "name": "아이스크림 스쿨런"
+  },
+  {
+    "id": 636,
+    "category": "민간(국산)",
+    "provider": "(주)잉글리시헌트",
+    "name": "비바부 잉글리시"
+  },
+  {
+    "id": 637,
+    "category": "민간(국산)",
+    "provider": "(주)잉글리시헌트",
+    "name": "리스닝스쿨"
+  },
+  {
+    "id": 638,
+    "category": "민간(국산)",
+    "provider": "플랙티컬 주식회사",
+    "name": "왓퀴즈"
+  },
+  {
+    "id": 639,
+    "category": "민간(국산)",
+    "provider": "(주)로보로보",
+    "name": "DIYGO 시리즈"
+  },
+  {
+    "id": 640,
+    "category": "민간(국산)",
+    "provider": "(주)매일국어",
+    "name": "매일국어"
+  },
+  {
+    "id": 641,
+    "category": "민간(국산)",
+    "provider": "(주)플랭",
+    "name": "플랭스쿨"
+  },
+  {
+    "id": 642,
+    "category": "민간(국산)",
+    "provider": "주식회사 인텔리어스",
+    "name": "상냥이"
+  },
+  {
+    "id": 643,
+    "category": "민간(국산)",
+    "provider": "(주)플랙스",
+    "name": "키즈다이어리"
+  },
+  {
+    "id": 644,
+    "category": "민간(국산)",
+    "provider": "주식회사 슬링",
+    "name": "체리 스쿨"
+  },
+  {
+    "id": 645,
+    "category": "민간(국산)",
+    "provider": "동아사이언스",
+    "name": "과학동아에어 에듀"
+  },
+  {
+    "id": 646,
+    "category": "민간(국산)",
+    "provider": "(주)매쓰홀릭",
+    "name": "매쓰홀릭T"
+  },
+  {
+    "id": 647,
+    "category": "민간(국산)",
+    "provider": "(주)매쓰홀릭",
+    "name": "글잼"
+  },
+  {
+    "id": 648,
+    "category": "민간(국산)",
+    "provider": "주식회사 글로랑",
+    "name": "픽시"
+  },
+  {
+    "id": 649,
+    "category": "민간(국산)",
+    "provider": "주식회사에이치투케이",
+    "name": "소중한글"
+  },
+  {
+    "id": 650,
+    "category": "민간(국산)",
+    "provider": "주식회사 슬링",
+    "name": "오르조 클래스"
+  },
+  {
+    "id": 651,
+    "category": "민간(국산)",
+    "provider": "(주)매쓰마스터",
+    "name": "일프로연산"
+  },
+  {
+    "id": 652,
+    "category": "민간(국산)",
+    "provider": "주식회사 슈퍼스쿨",
+    "name": "슈퍼스쿨"
+  },
+  {
+    "id": 653,
+    "category": "민간(국산)",
+    "provider": "(주)엠에이치소프트",
+    "name": "유클래스"
+  },
+  {
+    "id": 654,
+    "category": "민간(국산)",
+    "provider": "사자가온다 주식회사",
+    "name": "퀘스트스쿨"
+  },
+  {
+    "id": 655,
+    "category": "민간(국산)",
+    "provider": "주식회사 툰스퀘어",
+    "name": "투닝"
+  },
+  {
+    "id": 656,
+    "category": "민간(국산)",
+    "provider": "바운더리엑스",
+    "name": "비트런(마이크로비트 기반)"
+  },
+  {
+    "id": 657,
+    "category": "민간(국산)",
+    "provider": "바운더리엑스",
+    "name": "AI포니봇(마이크로비트 기반)"
+  },
+  {
+    "id": 658,
+    "category": "민간(국산)",
+    "provider": "바운더리엑스",
+    "name": "바운더리엑스 AI 웹앱서비스"
+  },
+  {
+    "id": 659,
+    "category": "민간(국산)",
+    "provider": "주식회사 큐레아",
+    "name": "똑스"
+  },
+  {
+    "id": 660,
+    "category": "민간(국산)",
+    "provider": "(주)페르소나에이아이",
+    "name": "소나스쿨"
+  },
+  {
+    "id": 661,
+    "category": "민간(국산)",
+    "provider": "클래시파이랩스",
+    "name": "클래시파이"
+  },
+  {
+    "id": 662,
+    "category": "민간(국산)",
+    "provider": "(주)에이치비아이티 (HBIT)",
+    "name": "클래스링크 : 교육활동침해행위예방교육,AI윤리교육외다수"
+  },
+  {
+    "id": 663,
+    "category": "민간(국산)",
+    "provider": "(주)청운정보",
+    "name": "와우아이디어스"
+  },
+  {
+    "id": 664,
+    "category": "민간(국산)",
+    "provider": "에이치엔아이엑스",
+    "name": "모델릭"
+  },
+  {
+    "id": 665,
+    "category": "민간(국산)",
+    "provider": "한국학교상담연구소",
+    "name": "학교상담시스템 위노트 AI"
+  },
+  {
+    "id": 666,
+    "category": "민간(국산)",
+    "provider": "(주)지학사",
+    "name": "티솔루션"
+  },
+  {
+    "id": 667,
+    "category": "민간(국산)",
+    "provider": "(주)로보라이즌",
+    "name": "Abled PingPong Robot"
+  },
+  {
+    "id": 668,
+    "category": "민간(국산)",
+    "provider": "주식회사 큐브로이드",
+    "name": "AI로봇 아티보"
+  },
+  {
+    "id": 669,
+    "category": "민간(국산)",
+    "provider": "(주)미네르바에듀",
+    "name": "꾸럼e"
+  },
+  {
+    "id": 670,
+    "category": "민간(국산)",
+    "provider": "레듀텍",
+    "name": "독서교육 플랫폼 리딩오션"
+  },
+  {
+    "id": 671,
+    "category": "민간(국산)",
+    "provider": "주식회사 트라이디스",
+    "name": "트라이디스"
+  },
+  {
+    "id": 672,
+    "category": "민간(국산)",
+    "provider": "(주)천재교과서",
+    "name": "지니아튜터"
+  },
+  {
+    "id": 673,
+    "category": "민간(국산)",
+    "provider": "천재교육",
+    "name": "클래스핑퐁"
+  },
+  {
+    "id": 674,
+    "category": "민간(국산)",
+    "provider": "천재교육",
+    "name": "클래스링크"
+  },
+  {
+    "id": 675,
+    "category": "민간(국산)",
+    "provider": "천재교육",
+    "name": "클래스보드"
+  },
+  {
+    "id": 676,
+    "category": "민간(국산)",
+    "provider": "천재교육",
+    "name": "우리반 T셀파"
+  },
+  {
+    "id": 677,
+    "category": "민간(국산)",
+    "provider": "(주)커넥트에듀",
+    "name": "스마트리영어 파닉스"
+  },
+  {
+    "id": 678,
+    "category": "민간(국산)",
+    "provider": "제로엑스플로우",
+    "name": "원아워"
+  },
+  {
+    "id": 679,
+    "category": "민간(국산)",
+    "provider": "주식회사 에듀비아",
+    "name": "이대로티처스"
+  },
+  {
+    "id": 680,
+    "category": "민간(국산)",
+    "provider": "주식회사 트루밸류",
+    "name": "드림어필"
+  },
+  {
+    "id": 681,
+    "category": "민간(국산)",
+    "provider": "주식회사 보이저엑스",
+    "name": "브루"
+  },
+  {
+    "id": 682,
+    "category": "민간(국산)",
+    "provider": "주식회사 아티피셜소사이어티",
+    "name": "레서"
+  },
+  {
+    "id": 683,
+    "category": "민간(국산)",
+    "provider": "주식회사 아티피셜소사이어티",
+    "name": "러니"
+  },
+  {
+    "id": 684,
+    "category": "민간(국산)",
+    "provider": "주식회사 임팩터스",
+    "name": "임팩트 스페이스"
+  },
+  {
+    "id": 685,
+    "category": "민간(국산)",
+    "provider": "(주)커넥트에듀",
+    "name": "수능영어 배경지식 기르기"
+  },
+  {
+    "id": 686,
+    "category": "민간(국산)",
+    "provider": "(주)교학사",
+    "name": "클래스몬"
+  },
+  {
+    "id": 687,
+    "category": "민간(국산)",
+    "provider": "투블럭에이아이",
+    "name": "키위티-키위런"
+  },
+  {
+    "id": 688,
+    "category": "민간(국산)",
+    "provider": "(주)커넥트에듀",
+    "name": "스마트리영어 자기주도형"
+  },
+  {
+    "id": 689,
+    "category": "민간(국산)",
+    "provider": "(주)커넥트에듀",
+    "name": "스마트리영어 교과연계형"
+  },
+  {
+    "id": 690,
+    "category": "민간(국산)",
+    "provider": "주식회사 클잼",
+    "name": "ICT 나도작곡가"
+  },
+  {
+    "id": 691,
+    "category": "민간(국산)",
+    "provider": "(주)엘리스그룹",
+    "name": "AI헬피챗"
+  },
+  {
+    "id": 692,
+    "category": "민간(국산)",
+    "provider": "(주)엘리스그룹",
+    "name": "엘리스LXP"
+  },
+  {
+    "id": 693,
+    "category": "민간(국산)",
+    "provider": "동아출판(주)",
+    "name": "동아출판(주) 두클래스"
+  },
+  {
+    "id": 694,
+    "category": "민간(국산)",
+    "provider": "주식회사 젭",
+    "name": "젭 스쿨"
+  },
+  {
+    "id": 695,
+    "category": "민간(국산)",
+    "provider": "주식회사 젭",
+    "name": "젭 퀴즈"
+  },
+  {
+    "id": 696,
+    "category": "민간(국산)",
+    "provider": "주식회사 젭",
+    "name": "젭"
+  },
+  {
+    "id": 697,
+    "category": "민간(국산)",
+    "provider": "(주)튜링",
+    "name": "수학대왕 CLASS"
+  },
+  {
+    "id": 698,
+    "category": "민간(국산)",
+    "provider": "제제듀",
+    "name": "체리팟"
+  },
+  {
+    "id": 699,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "기출탭탭"
+  },
+  {
+    "id": 700,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "옥수수"
+  },
+  {
+    "id": 701,
+    "category": "민간(국산)",
+    "provider": "(주)비상교육",
+    "name": "온리원"
+  },
+  {
+    "id": 702,
+    "category": "민간(국산)",
+    "provider": "아이헤이트플라잉버그스",
+    "name": "스쿨PT"
+  },
+  {
+    "id": 703,
+    "category": "민간(국산)",
+    "provider": "큐리어드",
+    "name": "마인드게이즈"
+  },
+  {
+    "id": 704,
+    "category": "민간(국산)",
+    "provider": "주식회사 트루밸류",
+    "name": "MMS 마이 미션 스튜디오"
+  },
+  {
+    "id": 705,
+    "category": "민간(국산)",
+    "provider": "주식회사 버블콘",
+    "name": "1gram 저작도구"
+  },
+  {
+    "id": 706,
+    "category": "민간(국산)",
+    "provider": "주식회사 버블콘",
+    "name": "러닝에이씨드"
+  },
+  {
+    "id": 707,
+    "category": "민간(국산)",
+    "provider": "주식회사 버블콘",
+    "name": "STLINK"
+  },
+  {
+    "id": 708,
+    "category": "민간(국산)",
+    "provider": "큐리어드",
+    "name": "라포라포"
+  },
+  {
+    "id": 709,
+    "category": "민간(국산)",
+    "provider": "(주)리얼스터디",
+    "name": "세븐브릭스"
+  },
+  {
+    "id": 710,
+    "category": "민간(국산)",
+    "provider": "(주) 팀모노리스",
+    "name": "소크룸 라이트"
+  },
+  {
+    "id": 711,
+    "category": "민간(국산)",
+    "provider": "(주) 팀모노리스",
+    "name": "코들 AI 클래스룸"
+  },
+  {
+    "id": 712,
+    "category": "민간(국산)",
+    "provider": "(주)에이마스",
+    "name": "인천무크/imooc"
+  },
+  {
+    "id": 713,
+    "category": "민간(국산)",
+    "provider": "(주)메이커플랫폼",
+    "name": "노코드AI 스마트메이커"
+  },
+  {
+    "id": 714,
+    "category": "민간(국산)",
+    "provider": "테크빌교육(주)",
+    "name": "마이클"
+  },
+  {
+    "id": 715,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "AI아크수학"
+  },
+  {
+    "id": 716,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "issamGPT(아이쌤지피티)"
+  },
+  {
+    "id": 717,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "하이클래스"
+  },
+  {
+    "id": 718,
+    "category": "민간(국산)",
+    "provider": "클래스페이(classpay)",
+    "name": "클래스1234&클래스페이"
+  },
+  {
+    "id": 719,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "에듀뱅크"
+  },
+  {
+    "id": 720,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "클래스툴"
+  },
+  {
+    "id": 721,
+    "category": "민간(국산)",
+    "provider": "주식회사 카디날정보기술",
+    "name": "진단수학"
+  },
+  {
+    "id": 722,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "미니북"
+  },
+  {
+    "id": 723,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "AI매일수학"
+  },
+  {
+    "id": 724,
+    "category": "민간(국산)",
+    "provider": "(주)미래엔",
+    "name": "AI클래스"
+  },
+  {
+    "id": 725,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "아이스크림 툴킷"
+  },
+  {
+    "id": 726,
+    "category": "민간(국산)",
+    "provider": "테바소프트(주)",
+    "name": "심스페이스"
+  },
+  {
+    "id": 727,
+    "category": "민간(국산)",
+    "provider": "아이스크림미디어",
+    "name": "띵커벨"
+  },
+  {
+    "id": 728,
+    "category": "민간(국산)",
+    "provider": "(주)매일국어",
+    "name": "매일독서 독도"
+  },
+  {
+    "id": 729,
+    "category": "민간(국산)",
+    "provider": "주식회사티처라인",
+    "name": "생활기록부 AI 하마룸"
+  },
+  {
+    "id": 730,
+    "category": "민간(국산)",
+    "provider": "(주)매일국어",
+    "name": "매일국어T"
+  },
+  {
+    "id": 731,
+    "category": "민간(국산)",
+    "provider": "주식회사 와이비엠",
+    "name": "[YBM] Y클라우드"
+  },
+  {
+    "id": 732,
+    "category": "민간(국산)",
+    "provider": "크로노그래프 주식회사",
+    "name": "커리어킷"
+  },
+  {
+    "id": 733,
+    "category": "민간(국산)",
+    "provider": "태그하이브 주식회사",
+    "name": "클래스 사티"
+  },
+  {
+    "id": 734,
+    "category": "민간(국산)",
+    "provider": "주식회사 소프트앤",
+    "name": "퀴즈앤"
+  },
+  {
+    "id": 735,
+    "category": "민간(국산)",
+    "provider": "주식회사엔스크린(N-ScreenCo.,Ltd.)",
+    "name": "메가코스"
+  },
+  {
+    "id": 736,
+    "category": "민간(국산)",
+    "provider": "디피니션 주식회사",
+    "name": "문제G"
+  },
+  {
+    "id": 737,
+    "category": "민간(국산)",
+    "provider": "(주)미래엔",
+    "name": "초코클래스"
+  },
+  {
+    "id": 738,
+    "category": "민간(국산)",
+    "provider": "주식회사 호랑에듀",
+    "name": "호랑"
+  },
+  {
+    "id": 739,
+    "category": "민간(국산)",
+    "provider": "주식회사 토포로그",
+    "name": "대구 교육 가상여행 학습 KIT"
+  },
+  {
+    "id": 740,
+    "category": "민간(국산)",
+    "provider": "주식회사 토포로그",
+    "name": "제주 세계자연유산 가상여행 체험학습 KIT"
+  },
+  {
+    "id": 741,
+    "category": "민간(국산)",
+    "provider": "주식회사 토포로그",
+    "name": "서울 세계문화유산 가상여행 체험학습 KIT"
+  },
+  {
+    "id": 742,
+    "category": "민간(국산)",
+    "provider": "주식회사 토포로그",
+    "name": "독도 가상여행 체험학습 KIT"
+  },
+  {
+    "id": 743,
+    "category": "민간(국산)",
+    "provider": "CT",
+    "name": "클래스팅 AI"
+  },
+  {
+    "id": 744,
+    "category": "민간(국산)",
+    "provider": "동서정보시스템",
+    "name": "클래스싱크"
+  },
+  {
+    "id": 745,
+    "category": "민간(국산)",
+    "provider": "하와이컴퍼니주식회사",
+    "name": "하와이클래쓰 : 교과서 연계 AI 수학 성취도 추론"
+  },
+  {
+    "id": 746,
+    "category": "민간(외산)",
+    "provider": "테크빌교육(주)",
+    "name": "노션(Notion)"
+  },
+  {
+    "id": 747,
+    "category": "민간(외산)",
+    "provider": "Twinkl Ltd",
+    "name": "Twinkl.co.uk"
+  },
+  {
+    "id": 748,
+    "category": "민간(외산)",
+    "provider": "Seeds of Empowerment",
+    "name": "SMILE (Stanford Mobile Inquiry-based Lerning Environment)"
+  },
+  {
+    "id": 749,
+    "category": "민간(외산)",
+    "provider": "Parewa Labs",
+    "name": "Programiz"
+  },
+  {
+    "id": 750,
+    "category": "민간(외산)",
+    "provider": "Pixton Comics Inc",
+    "name": "Pixton"
+  },
+  {
+    "id": 751,
+    "category": "민간(외산)",
+    "provider": "Phonics and Stuff LLC",
+    "name": "Phonics and Stuff"
+  },
+  {
+    "id": 752,
+    "category": "민간(외산)",
+    "provider": "(주)제이이디아이",
+    "name": "비봇 Bee-Bot"
+  },
+  {
+    "id": 753,
+    "category": "민간(외산)",
+    "provider": "capella-software AG Germany",
+    "name": "capella music notation software, capella audio2score pro, capella-scan, tonica fugata"
+  },
+  {
+    "id": 754,
+    "category": "민간(외산)",
+    "provider": "CELSYS, Inc.",
+    "name": "CLIP STUDIO PAINT"
+  },
+  {
+    "id": 755,
+    "category": "민간(외산)",
+    "provider": "CodeCombat Inc.",
+    "name": "CodeCombat, Ozaria, CodeCombat Jr., AL Hackstack"
+  },
+  {
+    "id": 756,
+    "category": "민간(외산)",
+    "provider": "Coggle Limited",
+    "name": "Coggle"
+  },
+  {
+    "id": 757,
+    "category": "민간(외산)",
+    "provider": "Craft Docs Ltd.",
+    "name": "Craft Docs"
+  },
+  {
+    "id": 758,
+    "category": "민간(외산)",
+    "provider": "Drawboard Pty Ltd",
+    "name": "Drawboard PDF"
+  },
+  {
+    "id": 759,
+    "category": "민간(외산)",
+    "provider": "DroneBlocks, LLC",
+    "name": "DroneBlocks Enterprise Membership"
+  },
+  {
+    "id": 760,
+    "category": "민간(외산)",
+    "provider": "Global Connection Technologies Limited",
+    "name": "HelloTalk"
+  },
+  {
+    "id": 761,
+    "category": "민간(외산)",
+    "provider": "The Jamovi Project Pty Ltd",
+    "name": "Jamovi Desktop"
+  },
+  {
+    "id": 762,
+    "category": "민간(외산)",
+    "provider": "The Jamovi Project Pty Ltd",
+    "name": "Jamovi Cloud"
+  },
+  {
+    "id": 763,
+    "category": "민간(외산)",
+    "provider": "Kialo GmbH",
+    "name": "Kialo Edu"
+  },
+  {
+    "id": 764,
+    "category": "민간(외산)",
+    "provider": "Kognity AB",
+    "name": "Kognity Teaching & Learning Platform"
+  },
+  {
+    "id": 765,
+    "category": "민간(외산)",
+    "provider": "Magic School, Inc.",
+    "name": "MagicSchool"
+  },
+  {
+    "id": 766,
+    "category": "민간(외산)",
+    "provider": "ManageBac LLC",
+    "name": "ManageBac+"
+  },
+  {
+    "id": 767,
+    "category": "민간(외산)",
+    "provider": "Makeblock Europe B.V.",
+    "name": "mBlock STEAM Education Platform (mBlock5 / mBlock Web)"
+  },
+  {
+    "id": 768,
+    "category": "민간(외산)",
+    "provider": "QuiverVision Limited",
+    "name": "Quiver 3D Coloring App and Quiver Education Dashboard"
+  },
+  {
+    "id": 769,
+    "category": "민간(외산)",
+    "provider": "Seesaw Learning, Inc.",
+    "name": "Seesaw"
+  },
+  {
+    "id": 770,
+    "category": "민간(외산)",
+    "provider": "Marcel Blum d.b.a. Soundplant.org",
+    "name": "Soundplant"
+  },
+  {
+    "id": 771,
+    "category": "민간(외산)",
+    "provider": "Toxicode",
+    "name": "Compute it, Little Dot Adventure, Silent Teacher"
+  },
+  {
+    "id": 772,
+    "category": "민간(외산)",
+    "provider": "tsaedek (Richard Sadek)",
+    "name": "VidAnalysis / VidAnalysis Pro"
+  },
+  {
+    "id": 773,
+    "category": "민간(외산)",
+    "provider": "Vito Technology, Inc.",
+    "name": "Star Walk 2 - Night Sky Map"
+  },
+  {
+    "id": 774,
+    "category": "민간(외산)",
+    "provider": "Vito Technology, Inc.",
+    "name": "Sky Tonight - Star Gazer Guide"
+  },
+  {
+    "id": 775,
+    "category": "민간(외산)",
+    "provider": "Xeropan International Kft.",
+    "name": "Xeropan"
+  },
+  {
+    "id": 776,
+    "category": "민간(외산)",
+    "provider": "Baamboozle Inc.",
+    "name": "Baamboozle+"
+  },
+  {
+    "id": 777,
+    "category": "민간(외산)",
+    "provider": "Amplify Education, Inc.",
+    "name": "Amplify Classroom, Polypad, Mathigon"
+  },
+  {
+    "id": 778,
+    "category": "민간(외산)",
+    "provider": "마루인터내셔널(주)",
+    "name": "Maxon One Classroom License"
+  },
+  {
+    "id": 779,
+    "category": "민간(외산)",
+    "provider": "에스디에스",
+    "name": "GX-WORKS 3"
+  },
+  {
+    "id": 780,
+    "category": "민간(외산)",
+    "provider": "주식회사 한국과학",
+    "name": "Vernier Graphical Analysis"
+  },
+  {
+    "id": 781,
+    "category": "민간(외산)",
+    "provider": "에스디에스",
+    "name": "MR Configurator2"
+  },
+  {
+    "id": 782,
+    "category": "민간(외산)",
+    "provider": "에스디에스",
+    "name": "GT_DESIGNER3"
+  },
+  {
+    "id": 783,
+    "category": "민간(외산)",
+    "provider": "에스디에스",
+    "name": "GX-WORKS 2"
+  },
+  {
+    "id": 784,
+    "category": "민간(외산)",
+    "provider": "주식회사 제이텍솔루션",
+    "name": "CIMCO EDIT / NC코드 검증용"
+  },
+  {
+    "id": 785,
+    "category": "민간(외산)",
+    "provider": "주식회사 제이텍솔루션",
+    "name": "EdgeCAM / CAM소프트웨어"
+  },
+  {
+    "id": 786,
+    "category": "민간(외산)",
+    "provider": "(주) 에스에이엠티",
+    "name": "Apple School Manager, 교실 앱(Classroom), 스쿨워크(Schoolwork) (Pages, Numbers, Keynote, GarageBand, iMovie, Clips, Swift Playground 등)"
+  },
+  {
+    "id": 787,
+    "category": "민간(외산)",
+    "provider": "주식회사 오늘배움",
+    "name": "미주 AI"
+  },
+  {
+    "id": 788,
+    "category": "민간(외산)",
+    "provider": "주식회사 와이케이사이언스",
+    "name": "스파크뷰"
+  },
+  {
+    "id": 789,
+    "category": "민간(외산)",
+    "provider": "테크빌교육(주)",
+    "name": "니어팟(nearpod)"
+  },
+  {
+    "id": 790,
+    "category": "민간(외산)",
+    "provider": "주식회사 퓨너스",
+    "name": "레고 에듀케이션 스파이크 에센셜&프라임 / SPIKE"
+  },
+  {
+    "id": 791,
+    "category": "민간(외산)",
+    "provider": "(주)핸즈온테크놀러지",
+    "name": "LEGO EDUCATION 레고에듀케이션 ROBORISE-IT [스파이크 에센셜 전용] SW & AI 더블파워 커리큘럼 NEW!"
+  },
+  {
+    "id": 792,
+    "category": "민간(외산)",
+    "provider": "(주)핸즈온테크놀러지",
+    "name": "LEGO EDUCATION 레고에듀케이션 ROBORISE-IT [스파이크 프라임 전용] SW & AI 시티빌더 커리큘럼"
+  },
+  {
+    "id": 793,
+    "category": "민간(외산)",
+    "provider": "(주)핸즈온테크놀러지",
+    "name": "LEGO EDUCATION 레고에듀케이션 ROBORISE-IT [스파이크 프라임 전용] SW & AI 커리큘럼"
+  },
+  {
+    "id": 794,
+    "category": "민간(외산)",
+    "provider": "(주)핸즈온테크놀러지",
+    "name": "LEGO EDUCATION 레고에듀케이션 ROBORISE-IT [스파이크 에센셜 전용] SW & AI 에코팀 커리큘럼"
+  },
+  {
+    "id": 795,
+    "category": "민간(외산)",
+    "provider": "(주)메타키움",
+    "name": "CLASSVR"
+  },
+  {
+    "id": 796,
+    "category": "민간(외산)",
+    "provider": "한국마이크로소프트",
+    "name": "Microsoft 365(메이크코드 포함)"
+  },
+  {
+    "id": 797,
+    "category": "민간(외산)",
+    "provider": "(주)헬로소프트",
+    "name": "딜라이텍스 에듀"
+  },
+  {
+    "id": 798,
+    "category": "민간(외산)",
+    "provider": "테일트리코리아",
+    "name": "테일트리코리아"
+  },
+  {
+    "id": 799,
+    "category": "민간(외산)",
+    "provider": "Goodnotes",
+    "name": "Goodnotes(Goodnotes Education)"
+  },
+  {
+    "id": 800,
+    "category": "민간(외산)",
+    "provider": "Wallwisher Inc DBA Padlet",
+    "name": "Padlet for Schools"
+  },
+  {
+    "id": 801,
+    "category": "민간(외산)",
+    "provider": "주식회사 퓨너스",
+    "name": "레고 에듀케이션 컴퓨터 사이언스&AI"
+  },
+  {
+    "id": 802,
+    "category": "민간(외산)",
+    "provider": "주식회사 퓨너스",
+    "name": "레고 에듀케이션 사이언스 시크릿패키지 / 교사 포털"
+  },
+  {
+    "id": 803,
+    "category": "민간(외산)",
+    "provider": "주식회사 포인투랩",
+    "name": "구글 워크스페이스 포 에듀케이션 플러스, 제미나이, 구글 클래스룸 등 (구글 워크스페이스 핵심 서비스)"
+  },
+  {
+    "id": 804,
+    "category": "민간(외산)",
+    "provider": "주식회사 마르시스에듀",
+    "name": "오조봇"
+  },
+  {
+    "id": 805,
+    "category": "민간(외산)",
+    "provider": "캔바 코리아 유한회사",
+    "name": "캔바"
+  },
+  {
+    "id": 806,
+    "category": "민간(외산)",
+    "provider": "주식회사 마르시스에듀",
+    "name": "빈치봇"
+  },
+  {
+    "id": 807,
+    "category": "민간(외산)",
+    "provider": "주식회사 마르시스에듀",
+    "name": "AI 천체망원경 (베스페라)"
+  },
+  {
+    "id": 808,
+    "category": "민간(외산)",
+    "provider": "주식회사 마르시스에듀",
+    "name": "스마트 현미경 (MX2-AS)"
+  },
+  {
+    "id": 809,
+    "category": "민간(외산)",
+    "provider": "(주)엔클라우딩",
+    "name": "넷서포트 스쿨 (NetSupport School)"
+  },
+  {
+    "id": 810,
+    "category": "민간(외산)",
+    "provider": "주식회사 오늘배움",
+    "name": "씽링크"
+  },
+  {
+    "id": 811,
+    "category": "민간(외산)",
+    "provider": "주식회사 오늘배움",
+    "name": "큐리팟"
+  },
+  {
+    "id": 812,
+    "category": "민간(외산)",
+    "provider": "(주)엔클라우딩",
+    "name": "클래스룸.클라우드(classroom.cloud)"
+  },
+  {
+    "id": 813,
+    "category": "민간(외산)",
+    "provider": "주식회사 오늘배움",
+    "name": "위비디오"
+  },
+  {
+    "id": 814,
+    "category": "민간(외산)",
+    "provider": "주식회사 오늘배움",
+    "name": "스노클"
+  },
+  {
+    "id": 815,
+    "category": "민간(외산)",
+    "provider": "주식회사 오늘배움",
+    "name": "미주"
+  },
+  {
+    "id": 816,
+    "category": "민간(외산)",
+    "provider": "주식회사 오늘배움",
+    "name": "레드멘타"
+  },
+  {
+    "id": 817,
+    "category": "민간(외산)",
+    "provider": "테크빌교육(주)",
+    "name": "카훗(Kahoot!)"
+  },
+  {
+    "id": 818,
+    "category": "민간(외산)",
+    "provider": "테크빌교육(주)",
+    "name": "웨이그라운드(Wayground)"
+  },
+  {
+    "id": 819,
+    "category": "민간(외산)",
+    "provider": "테크빌교육(주)",
+    "name": "북크리에이터(Bookcreator)"
+  },
+  {
+    "id": 820,
+    "category": "민간(외산)",
+    "provider": "테크빌교육(주)",
+    "name": "카미(Kami)"
+  },
+  {
+    "id": 821,
+    "category": "민간(외산)",
+    "provider": "테크빌교육(주)",
+    "name": "에드퍼즐(Edpuzzle)"
+  },
+  {
+    "id": 822,
+    "category": "기타(교사 등 개인)",
+    "provider": "박대현",
+    "name": "킹수학"
+  },
+  {
+    "id": 823,
+    "category": "기타(교사 등 개인)",
+    "provider": "이청현",
+    "name": "CodeHub(코드헙)"
+  },
+  {
+    "id": 824,
+    "category": "기타(교사 등 개인)",
+    "provider": "정종광",
+    "name": "KOISTUDY(코이스터디)"
+  },
+  {
+    "id": 825,
+    "category": "기타(교사 등 개인)",
+    "provider": "유인근",
+    "name": "에듀칩(EDUCHIP)"
+  },
+  {
+    "id": 826,
+    "category": "기타(교사 등 개인)",
+    "provider": "황효진",
+    "name": "puple(퍼플)"
+  },
+  {
+    "id": 827,
+    "category": "기타(교사 등 개인)",
+    "provider": "조광근",
+    "name": "스마트 칭찬 기록판"
+  },
+  {
+    "id": 828,
+    "category": "기타(교사 등 개인)",
+    "provider": "강동원",
+    "name": "쌤공"
+  },
+  {
+    "id": 829,
+    "category": "기타(교사 등 개인)",
+    "provider": "문광식",
+    "name": "SJCODE(에스제이코드)"
+  },
+  {
+    "id": 830,
+    "category": "기타(교사 등 개인)",
+    "provider": "미래교육연구회",
+    "name": "미래교육연구회 사이트"
+  },
+  {
+    "id": 831,
+    "category": "기타(교사 등 개인)",
+    "provider": "김용현",
+    "name": "e-GIS(이지아이에스)"
+  },
+  {
+    "id": 832,
+    "category": "기타(교사 등 개인)",
+    "provider": "오보람",
+    "name": "SELUP(셀럽)"
+  },
+  {
+    "id": 833,
+    "category": "기타(교사 등 개인)",
+    "provider": "첵스쿨",
+    "name": "첵스쿨(첵스-쿨)"
+  },
+  {
+    "id": 834,
+    "category": "기타(교사 등 개인)",
+    "provider": "한지호",
+    "name": "MARU(마루)"
+  },
+  {
+    "id": 835,
+    "category": "기타(교사 등 개인)",
+    "provider": "박종화",
+    "name": "BFStudy(비에프스터디)"
+  },
+  {
+    "id": 836,
+    "category": "기타(교사 등 개인)",
+    "provider": "지호덕",
+    "name": "면접의 달인"
+  },
+  {
+    "id": 837,
+    "category": "기타(교사 등 개인)",
+    "provider": "지호덕",
+    "name": "사서의 달인"
+  },
+  {
+    "id": 838,
+    "category": "기타(교사 등 개인)",
+    "provider": "지호덕",
+    "name": "수업의 달인"
+  },
+  {
+    "id": 839,
+    "category": "기타(교사 등 개인)",
+    "provider": "페다민트 랩(Pedamint Lab)",
+    "name": "한뼘코딩"
+  },
+  {
+    "id": 840,
+    "category": "기타(교사 등 개인)",
+    "provider": "페다민트 랩(Pedamint Lab)",
+    "name": "lit---ry(릿---리)"
+  },
+  {
+    "id": 841,
+    "category": "기타(교사 등 개인)",
+    "provider": "박준형",
+    "name": "ClassCEO(클래스CEO)"
+  },
+  {
+    "id": 842,
+    "category": "기타(교사 등 개인)",
+    "provider": "박준형",
+    "name": "ClassFin(클래스핀)"
+  },
+  {
+    "id": 843,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "햄스터 폭탄 대작전"
+  },
+  {
+    "id": 844,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "햄스터 축구 조종기"
+  },
+  {
+    "id": 845,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "터치터치 고고! for ROBOID"
+  },
+  {
+    "id": 846,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "원격 조종기 for ROBOID"
+  },
+  {
+    "id": 847,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "스택 for ROBOID"
+  },
+  {
+    "id": 848,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "로봇 코딩"
+  },
+  {
+    "id": 849,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "로보이드 AI 파이썬 라이브러리"
+  },
+  {
+    "id": 850,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "로보이드 프로세싱 라이브러리"
+  },
+  {
+    "id": 851,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "로보이드 파이썬 라이브러리"
+  },
+  {
+    "id": 852,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "로보이드 자바스크립트 라이브러리"
+  },
+  {
+    "id": 853,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "로보이드 자바 라이브러리"
+  },
+  {
+    "id": 854,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "로보이드 론처"
+  },
+  {
+    "id": 855,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "로보이드 CPP 라이브러리"
+  },
+  {
+    "id": 856,
+    "category": "기타(교사 등 개인)",
+    "provider": "박광현(광운대학교)",
+    "name": "로보이드 C 라이브러리"
+  },
+  {
+    "id": 857,
+    "category": "기타(교사 등 개인)",
+    "provider": "페다민트 랩(Pedamint Lab)",
+    "name": "페다민트"
+  },
+  {
+    "id": 858,
+    "category": "기타(교사 등 개인)",
+    "provider": "김봉석",
+    "name": "1024.kr"
+  },
+  {
+    "id": 859,
+    "category": "기타(교사 등 개인)",
+    "provider": "전현석",
+    "name": "코드스타트"
+  },
+  {
+    "id": 860,
+    "category": "기타(교사 등 개인)",
+    "provider": "핀클래스",
+    "name": "Finclass(핀클래스)"
+  },
+  {
+    "id": 861,
+    "category": "기타(교사 등 개인)",
+    "provider": "박권",
+    "name": "aiedu.love"
+  },
+  {
+    "id": 862,
+    "category": "기타(교사 등 개인)",
+    "provider": "홍성용",
+    "name": "말한마디"
+  },
+  {
+    "id": 863,
+    "category": "기타(교사 등 개인)",
+    "provider": "팀 데일리스쿨",
+    "name": "데일리스쿨"
+  },
+  {
+    "id": 864,
+    "category": "기타(교사 등 개인)",
+    "provider": "에듀베이지",
+    "name": "에듀베이지"
+  },
+  {
+    "id": 865,
+    "category": "기타(교사 등 개인)",
+    "provider": "유승현",
+    "name": "끄적끄적아지트"
+  },
+  {
+    "id": 866,
+    "category": "기타(교사 등 개인)",
+    "provider": "정용석",
+    "name": "앱뜰(App-Tteul)"
+  },
+  {
+    "id": 867,
+    "category": "기타(교사 등 개인)",
+    "provider": "박지훈, 김지수",
+    "name": "코스모스 AI"
+  },
+  {
+    "id": 868,
+    "category": "기타(교사 등 개인)",
+    "provider": "백인규",
+    "name": "ingyu's ai world(초등학교 AI 웹앱 자료집)"
+  },
+  {
+    "id": 869,
+    "category": "기타(교사 등 개인)",
+    "provider": "김세훈",
+    "name": "반짝클래스"
+  },
+  {
+    "id": 870,
+    "category": "기타(교사 등 개인)",
+    "provider": "임세범",
+    "name": "이집트(E-GPT)"
+  },
+  {
+    "id": 871,
+    "category": "기타(교사 등 개인)",
+    "provider": "그라운드",
+    "name": "그라운드(Grownd)"
+  }
+]
