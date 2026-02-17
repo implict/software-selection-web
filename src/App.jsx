@@ -401,8 +401,8 @@ function App() {
                           const tooltip = e.currentTarget.querySelector('.custom-tooltip');
                           if (tooltip) {
                             const rect = e.currentTarget.getBoundingClientRect();
-                            const x = e.clientX - rect.left + 12; // Offset right
-                            const y = e.clientY - rect.top + 16;  // Offset down
+                            const x = e.clientX - rect.left - 4; // 4px left
+                            const y = e.clientY - rect.top + 4;  // 4px below
                             tooltip.style.transform = `translate(${x}px, ${y}px)`;
                           }
                         }}
@@ -416,7 +416,7 @@ function App() {
                       >
                         {/* Custom Tooltip */}
                         <div
-                          className="custom-tooltip absolute left-0 top-0 px-2 py-1 bg-gray-900 text-white text-[11px] rounded shadow-sm opacity-0 group-hover:opacity-100 z-50 pointer-events-none whitespace-nowrap"
+                          className="custom-tooltip absolute left-0 top-0 px-2 py-1 bg-gray-50 border border-gray-600 text-gray-800 text-[11px] rounded shadow-sm opacity-0 group-hover:opacity-100 z-50 pointer-events-none whitespace-nowrap"
                           style={{ willChange: 'transform' }}
                         >
                           {sw.name}
