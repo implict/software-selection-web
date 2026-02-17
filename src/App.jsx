@@ -397,7 +397,6 @@ function App() {
                     {items.map(sw => (
                       <div
                         key={sw.id}
-                        title={sw.name}
                         onClick={() => toggleSelection(sw.id)}
                         className={`
                           cursor-pointer p-4 rounded-xl border transition-all duration-200 flex items-start group relative
@@ -406,6 +405,11 @@ function App() {
                             : 'border-gray-200 hover:border-gray-300 hover:shadow-sm bg-white'}
                         `}
                       >
+                        {/* Custom Tooltip */}
+                        <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 bg-gray-900 text-white text-xs rounded-lg shadow-xl opacity-0 group-hover:opacity-100 transition-opacity duration-150 pointer-events-none z-50 w-max max-w-[200px] text-center leading-tight">
+                          {sw.name}
+                          <div className="absolute top-full left-1/2 transform -translate-x-1/2 border-4 border-transparent border-t-gray-900"></div>
+                        </div>
                         {/* Logo Placeholder */}
                         <div className={`
                           w-12 h-12 rounded-lg flex-shrink-0 flex items-center justify-center text-lg font-bold border mr-4
