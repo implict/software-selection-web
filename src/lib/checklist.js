@@ -82,17 +82,37 @@ export async function downloadChecklist(softwareMeta) {
             // Apply Background Colors based on Row Number
             if (rowNumber === 1) {
                 cell.fill = purpleFill
-                // Assuming Title is White text?
-                // cell.font = { color: { argb: 'FFFFFFFF' }, bold: true }
+                // Title: White, Bold, Large
+                cell.font = { name: 'Malgun Gothic', size: 16, bold: true, color: { argb: 'FFFFFFFF' } }
             } else if (rowNumber === 2) {
                 cell.fill = lightPurpleFill
+                // Description: Black, but URL should be Blue
+                // Check if it's a hyperlink object or rich text
+                if (cell.value && typeof cell.value === 'object') {
+                    if (cell.value.richText) {
+                        // Rich Text: Fix colors individually
+                        cell.value.richText.forEach(part => {
+                            if (part.text.includes('http') || part.text.includes('www.')) {
+                                part.font = { name: 'Malgun Gothic', color: { argb: 'FF0000FF' }, underline: true, bold: true }
+                            } else {
+                                part.font = { name: 'Malgun Gothic', color: { argb: 'FF000000' }, bold: true }
+                            }
+                        })
+                    } else if (cell.value.hyperlink) {
+                        // Standard Hyperlink object
+                        cell.font = { name: 'Malgun Gothic', color: { argb: 'FF0000FF' }, underline: true, bold: true }
+                    }
+                } else {
+                    // Plain text: default to black
+                    cell.font = { name: 'Malgun Gothic', color: { argb: 'FF000000' }, bold: true }
+                }
             } else if (rowNumber >= 3 && rowNumber <= 6) {
                 cell.fill = greyFill
-                cell.font = { bold: true, name: 'Malgun Gothic' }
+                cell.font = { bold: true, name: 'Malgun Gothic', color: { argb: 'FF000000' } }
             } else if (rowNumber >= 7) {
                 // Data Rows
                 cell.fill = whiteFill
-                cell.font = { name: 'Malgun Gothic', size: 10 }
+                cell.font = { name: 'Malgun Gothic', size: 10, color: { argb: 'FF000000' } }
             }
         })
 
