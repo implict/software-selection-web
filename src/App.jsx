@@ -416,7 +416,7 @@ function App() {
                       >
                         {/* Custom Tooltip */}
                         <div
-                          className="custom-tooltip absolute left-0 top-0 px-2 py-1 bg-gray-50 border border-gray-300 text-gray-600 text-[11px] rounded-none shadow-sm opacity-0 group-hover:opacity-100 transition-opacity duration-75 z-50 pointer-events-none whitespace-nowrap"
+                          className="custom-tooltip absolute left-0 top-0 px-2 py-1 bg-gray-50 border border-gray-300 text-gray-600 text-[11px] rounded-none shadow-sm opacity-0 group-hover:opacity-100 transition-opacity duration-75 delay-0 group-hover:delay-300 z-50 pointer-events-none whitespace-nowrap"
                           style={{ willChange: 'transform' }}
                         >
                           {sw.name}
