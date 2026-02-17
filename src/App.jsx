@@ -397,6 +397,15 @@ function App() {
                     {items.map(sw => (
                       <div
                         key={sw.id}
+                        onMouseMove={(e) => {
+                          const tooltip = e.currentTarget.querySelector('.custom-tooltip');
+                          if (tooltip) {
+                            const rect = e.currentTarget.getBoundingClientRect();
+                            const x = e.clientX - rect.left + 12; // Offset right
+                            const y = e.clientY - rect.top + 16;  // Offset down
+                            tooltip.style.transform = `translate(${x}px, ${y}px)`;
+                          }
+                        }}
                         onClick={() => toggleSelection(sw.id)}
                         className={`
                           cursor-pointer p-4 rounded-xl border transition-all duration-200 flex items-start group relative
@@ -406,9 +415,11 @@ function App() {
                         `}
                       >
                         {/* Custom Tooltip */}
-                        <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 bg-gray-900 text-white text-xs rounded-lg shadow-xl opacity-0 group-hover:opacity-100 transition-opacity duration-150 pointer-events-none z-50 w-max max-w-[200px] text-center leading-tight">
+                        <div
+                          className="custom-tooltip absolute left-0 top-0 px-2 py-1 bg-gray-900 text-white text-[11px] rounded shadow-sm opacity-0 group-hover:opacity-100 z-50 pointer-events-none whitespace-nowrap"
+                          style={{ willChange: 'transform' }}
+                        >
                           {sw.name}
-                          <div className="absolute top-full left-1/2 transform -translate-x-1/2 border-4 border-transparent border-t-gray-900"></div>
                         </div>
                         {/* Logo Placeholder */}
                         <div className={`
