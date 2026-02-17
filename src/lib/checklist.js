@@ -24,6 +24,15 @@ export async function downloadChecklist(softwareMeta) {
     const foundNames = new Set()
 
     // 3. Identify data rows to delete (row 7 onwards)
+    // FIRST: Capture style from the first data row (row 7) to apply to new rows later
+    const columnStyles = {}
+    const templateRow = ws.getRow(7)
+    if (templateRow) {
+        templateRow.eachCell({ includeEmpty: true }, (cell, colNumber) => {
+            columnStyles[colNumber] = cell.style
+        })
+    }
+
     // Column C (3) = SW name
     const rowsToDelete = []
     const lastDataRow = ws.rowCount
@@ -52,10 +61,20 @@ export async function downloadChecklist(softwareMeta) {
 
     for (const item of missingItems) {
         const nextRow = ws.rowCount + 1
-        ws.getCell(nextRow, 2).value = '' // 연번 (set below)
-        ws.getCell(nextRow, 3).value = item.name       // 소프트웨어명
-        ws.getCell(nextRow, 4).value = item.provider   // 공급자
-        ws.getCell(nextRow, 5).value = item.category   // 유형
+        const row = ws.getRow(nextRow)
+
+        // Apply styles from template
+        Object.keys(columnStyles).forEach(colNumber => {
+            const cell = row.getCell(Number(colNumber))
+            cell.style = columnStyles[colNumber]
+        })
+
+        row.getCell(2).value = '' // 연번 (set below)
+        row.getCell(3).value = item.name       // 소프트웨어명
+        row.getCell(4).value = item.provider   // 공급자
+        row.getCell(5).value = item.category   // 유형
+
+        row.commit()
     }
 
     // 6. Re-number 연번 (column B) starting from row 7
